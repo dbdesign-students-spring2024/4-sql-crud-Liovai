@@ -1,0 +1,1001 @@
+id,name,category,price_tier,neighborhood,opening_hours,closing_hours,average_rating,good_for_kids
+1,"Feil, Moen and Marks",Mexican,cheap,Park Slope,12:04,22:55,4.5,false
+2,Crooks LLC,French,cheap,Park Slope,10:11,21:34,2.6,false
+3,McClure-Bogan,French,expensive,Greenpoint,13:45,22:48,1.7,false
+4,O'Reilly-Breitenberg,Vietnamese,expensive,Greenpoint,12:19,22:00,2.2,false
+5,Beer and Sons,Indian,median,Park Slope,11:25,23:43,2.4,true
+6,Nienow-Prosacco,Indian,cheap,Harlem,11:50,23:20,2.0,false
+7,"Swaniawski, Stracke and Ratke",Mexican,expensive,Harlem,10:15,23:13,3.5,true
+8,"Abshire, Cronin and Senger",Thai,median,Astoria,11:16,21:37,1.1,false
+9,West-Cronin,Brazilian,median,Greenpoint,10:58,22:52,2.2,false
+10,Tremblay and Sons,Japanese,median,Bushwick,11:00,23:43,3.5,false
+11,Boyer Inc,Spanish,expensive,Midtown,12:10,21:54,4.7,true
+12,"Paucek, Runolfsdottir and Kling",Mediterranean,median,Park Slope,11:40,23:21,1.0,false
+13,"Kohler, Ziemann and Becker",Spanish,cheap,Midtown,11:57,23:47,4.5,false
+14,Grimes LLC,Indian,cheap,Harlem,11:02,23:16,1.2,false
+15,Stracke-Mertz,Indian,median,Midtown,11:58,22:37,4.0,true
+16,Nikolaus-Dibbert,Mediterranean,cheap,Harlem,11:38,22:43,3.9,false
+17,Botsford-Ondricka,Indian,cheap,Bushwick,12:37,21:45,2.6,true
+18,"Glover, Leuschke and Kunde",Japanese,median,Midtown,10:28,21:37,2.7,true
+19,Cruickshank and Sons,Indian,expensive,Upper East Side,11:50,23:35,2.5,false
+20,"Mayer, Murazik and Effertz",American,cheap,Harlem,11:54,21:37,4.6,true
+21,"Bogisich, Rogahn and Pagac",Spanish,expensive,Park Slope,13:46,21:57,2.4,false
+22,Grant-Wehner,Italian,expensive,Midtown,13:42,21:38,1.4,true
+23,Zieme-Weissnat,Mediterranean,cheap,Greenpoint,12:47,22:37,3.1,true
+24,"Crona, Padberg and Hermann",Mexican,cheap,Astoria,13:41,21:44,4.8,true
+25,Heathcote Group,Spanish,expensive,Harlem,12:43,23:35,2.7,false
+26,Harris Group,Korean,median,Park Slope,11:33,21:38,3.1,false
+27,"Cummings, Terry and Greenholt",Greek,median,Greenpoint,12:38,23:52,4.3,false
+28,"Runte, Funk and Skiles",French,expensive,Chelsea,11:10,22:50,2.5,false
+29,Windler Inc,Brazilian,expensive,Harlem,10:47,23:55,5.0,false
+30,Schroeder Inc,French,expensive,Chelsea,12:41,22:46,1.2,true
+31,Mayer-Wyman,Mediterranean,cheap,Chelsea,13:22,23:02,2.2,false
+32,Weissnat-Romaguera,Thai,expensive,Chelsea,12:43,23:47,4.0,false
+33,"Bahringer, Vandervort and Ortiz",Mexican,cheap,Williamsburg,10:21,22:04,4.9,true
+34,"Thiel, Batz and Stokes",Korean,expensive,Astoria,12:17,22:29,2.7,true
+35,"Douglas, Dooley and Carroll",Italian,cheap,Upper East Side,10:12,22:58,1.5,false
+36,Marvin-Hudson,Japanese,cheap,Chelsea,12:10,22:28,1.7,false
+37,McGlynn-Schamberger,Spanish,expensive,Chelsea,10:23,23:30,1.4,false
+38,Adams Inc,Spanish,median,Astoria,12:29,23:07,1.4,true
+39,Trantow LLC,Italian,expensive,Park Slope,13:29,22:16,4.8,false
+40,Crona-Jacobson,Mexican,median,Astoria,10:18,22:26,3.9,true
+41,Kiehn LLC,Mexican,median,Lower East Side,11:03,23:57,2.6,true
+42,"Huel, Price and Fay",Thai,median,Greenpoint,12:43,22:16,4.0,true
+43,Haley Inc,Mexican,expensive,Lower East Side,10:38,23:58,2.6,true
+44,"Boehm, Bayer and Mann",Mexican,median,Bushwick,12:29,23:53,3.4,false
+45,"Cole, Boyer and Mraz",Mediterranean,expensive,Chelsea,13:31,21:36,1.0,false
+46,"Daugherty, Hammes and King",Indian,cheap,Chelsea,11:59,21:41,4.5,true
+47,Stracke LLC,American,cheap,Astoria,10:08,22:44,1.9,false
+48,"Miller, Smith and Jaskolski",Korean,cheap,Harlem,10:43,22:07,4.6,false
+49,Cormier-Ryan,Chinese,median,Williamsburg,13:31,22:06,4.0,true
+50,Haag Inc,American,median,Park Slope,10:34,23:28,1.5,true
+51,Gorczany Group,Brazilian,cheap,Williamsburg,11:48,21:52,2.0,true
+52,Kreiger-Conroy,Spanish,median,Bushwick,11:35,22:21,4.9,true
+53,Jast Group,Greek,expensive,Harlem,12:20,22:59,4.6,false
+54,Blick-Cronin,Spanish,median,Williamsburg,13:32,21:31,1.8,true
+55,"Bogisich, Bradtke and Hyatt",Greek,expensive,Williamsburg,10:47,23:20,1.6,true
+56,McKenzie-Halvorson,Brazilian,cheap,Upper East Side,12:45,22:21,3.0,false
+57,Hagenes-Okuneva,Japanese,expensive,Chelsea,13:43,23:49,4.7,true
+58,"Hegmann, Wyman and Wolff",Japanese,cheap,Williamsburg,10:58,23:47,4.7,false
+59,"Raynor, Rempel and Rippin",Japanese,cheap,Williamsburg,11:49,22:04,5.0,true
+60,"Stroman, Hansen and Feeney",Spanish,median,Chelsea,11:06,23:36,1.3,true
+61,"Thiel, Feest and Cummings",Thai,expensive,Lower East Side,10:52,21:58,4.7,true
+62,McDermott-Beahan,Spanish,median,Harlem,12:57,21:41,1.6,false
+63,Schimmel and Sons,Korean,cheap,Chelsea,11:00,21:47,2.5,false
+64,"Kemmer, Ritchie and Stark",Chinese,expensive,Chelsea,10:45,23:50,1.9,true
+65,"Legros, Kuphal and Leannon",Indian,cheap,Greenpoint,12:04,21:59,1.7,true
+66,Halvorson LLC,Brazilian,expensive,Midtown,10:58,23:35,2.4,false
+67,Gleichner Group,Vietnamese,expensive,Park Slope,11:05,22:01,2.3,false
+68,Klocko-Beer,Vietnamese,cheap,Williamsburg,13:23,21:49,4.8,false
+69,"Ryan, Towne and Borer",Vietnamese,expensive,Lower East Side,12:57,21:56,2.7,true
+70,Ledner-Kuhlman,Vietnamese,median,Park Slope,13:30,23:42,2.8,false
+71,Dare Group,Indian,median,Astoria,11:15,21:42,2.4,true
+72,Roob-McKenzie,American,expensive,Harlem,10:27,22:40,3.9,true
+73,Graham-Schultz,Japanese,median,Williamsburg,11:07,22:49,2.8,true
+74,Hegmann-Stamm,Spanish,cheap,Chelsea,10:09,21:54,5.0,false
+75,Tillman-Stanton,Italian,median,Bushwick,13:25,22:31,4.9,true
+76,Koss-Hickle,Korean,expensive,Midtown,11:16,22:40,2.3,true
+77,"Zemlak, Morar and Rohan",Greek,cheap,Upper East Side,11:30,21:58,1.0,true
+78,Koss LLC,Spanish,median,Harlem,11:21,22:11,1.5,true
+79,Parisian-Lueilwitz,Brazilian,cheap,Park Slope,13:50,23:08,1.1,true
+80,Koss Group,Chinese,expensive,Williamsburg,11:31,22:57,4.4,true
+81,Harris-Cronin,Mexican,cheap,Park Slope,10:22,23:12,3.1,true
+82,"Nienow, Heidenreich and Schamberger",French,cheap,Chelsea,10:46,23:08,1.4,false
+83,"Monahan, Bartell and Stark",Japanese,expensive,Astoria,13:16,23:35,2.5,true
+84,"Okuneva, Shields and Denesik",American,cheap,Upper East Side,11:02,22:27,4.1,true
+85,"Schroeder, Powlowski and Emmerich",Korean,median,Greenpoint,10:22,22:59,2.6,true
+86,Bartoletti-Hermann,Vietnamese,cheap,Bushwick,11:36,23:56,2.8,true
+87,Spinka-Morar,Japanese,median,Upper East Side,12:59,21:46,3.7,false
+88,"Ankunding, Stoltenberg and Bergstrom",Vietnamese,expensive,Harlem,11:47,23:44,1.3,false
+89,Marquardt Group,Vietnamese,median,Park Slope,10:32,22:39,2.1,true
+90,Lindgren and Sons,Brazilian,expensive,Harlem,12:41,23:15,4.6,false
+91,West Group,Mediterranean,expensive,Park Slope,11:42,23:17,4.2,true
+92,"Rohan, Cole and Kutch",American,median,Lower East Side,13:01,23:21,1.2,false
+93,Schmitt-Upton,American,median,Park Slope,11:11,22:41,1.9,false
+94,Fisher and Sons,American,median,Upper East Side,10:42,23:32,2.2,false
+95,Hermann Inc,American,median,Harlem,13:27,22:24,4.5,true
+96,"Abbott, Durgan and Wuckert",Chinese,cheap,Bushwick,10:38,21:59,2.9,true
+97,Rippin-Braun,American,cheap,Astoria,13:13,22:04,1.9,true
+98,"Mueller, Thompson and Larson",Indian,median,Astoria,11:36,22:12,2.3,true
+99,"Cruickshank, Crist and Parker",Thai,expensive,Astoria,12:03,23:14,3.1,true
+100,Bailey Group,Indian,expensive,Harlem,13:00,21:53,5.0,false
+101,Welch Group,Vietnamese,expensive,Greenpoint,12:41,22:57,1.8,true
+102,Boyle-Boyer,Greek,cheap,Greenpoint,13:53,22:14,3.9,false
+103,Bosco-Hammes,Brazilian,expensive,Greenpoint,13:07,23:05,4.0,true
+104,"Jacobs, Yost and McKenzie",Korean,cheap,Greenpoint,13:02,22:34,4.0,true
+105,Hand-Christiansen,Korean,expensive,Upper East Side,11:16,22:06,2.1,false
+106,Anderson-Jacobi,Korean,cheap,Bushwick,10:12,22:26,5.0,true
+107,Blick-Keebler,Greek,cheap,Harlem,12:49,21:54,3.9,true
+108,Parisian and Sons,Korean,median,Williamsburg,12:19,21:31,1.3,false
+109,"Jaskolski, Krajcik and Fisher",Greek,cheap,Midtown,12:24,22:04,4.9,false
+110,"Streich, Cormier and Kerluke",Korean,expensive,Park Slope,12:13,22:05,4.1,true
+111,Mertz Group,Korean,expensive,Bushwick,12:58,23:13,3.7,true
+112,"Cronin, Wisoky and Grady",American,median,Upper East Side,11:30,23:28,4.8,false
+113,Emard-Little,Mediterranean,cheap,Chelsea,10:17,22:55,4.2,false
+114,Kuphal-Wunsch,Mexican,median,Greenpoint,13:52,21:35,1.2,false
+115,Cartwright-Powlowski,Vietnamese,median,Greenpoint,13:57,23:21,3.5,false
+116,"Koepp, Schoen and Russel",Greek,median,Greenpoint,11:11,22:06,3.4,true
+117,Brekke and Sons,American,expensive,Harlem,12:19,22:43,4.6,true
+118,Steuber-Schuppe,French,median,Harlem,13:56,23:14,1.1,true
+119,"Schinner, Buckridge and McDermott",Mediterranean,median,Upper East Side,11:56,21:39,3.2,false
+120,Renner Group,Indian,cheap,Astoria,10:03,22:39,1.1,false
+121,Hegmann Inc,Mediterranean,expensive,Astoria,11:50,22:44,1.5,true
+122,Kuhic Group,Chinese,median,Chelsea,12:48,23:30,1.8,true
+123,Lang LLC,Vietnamese,cheap,Midtown,12:49,21:51,1.9,true
+124,"Schuppe, Zemlak and Kris",Italian,cheap,Lower East Side,10:54,23:42,2.3,false
+125,Hermann-Strosin,Japanese,cheap,Astoria,12:46,23:53,2.9,false
+126,Purdy Inc,Mexican,expensive,Lower East Side,10:03,22:53,3.7,false
+127,Dach LLC,Spanish,cheap,Chelsea,12:18,23:37,4.8,false
+128,"Schroeder, Rutherford and Flatley",Mexican,expensive,Upper East Side,12:29,21:43,2.6,true
+129,Schaden-Tillman,Mediterranean,expensive,Upper East Side,10:16,23:27,4.0,true
+130,Paucek-Jacobi,Italian,expensive,Park Slope,10:02,22:28,2.4,true
+131,"Kessler, Howell and Haley",Vietnamese,cheap,Astoria,12:28,22:18,3.6,false
+132,Hackett-Haag,Mexican,expensive,Astoria,12:13,22:16,3.0,false
+133,Goldner LLC,Korean,cheap,Bushwick,11:14,22:40,1.6,true
+134,"Nolan, Cremin and Quigley",French,median,Astoria,11:33,22:14,3.8,true
+135,"Funk, Moen and D'Amore",Mediterranean,cheap,Chelsea,11:23,23:16,3.0,false
+136,"Mayer, Conroy and Hand",Mediterranean,expensive,Midtown,10:56,22:26,1.2,false
+137,Kautzer and Sons,Japanese,median,Harlem,12:02,23:19,1.0,true
+138,Hahn-Schulist,Greek,expensive,Greenpoint,10:09,21:36,3.7,true
+139,Beer Group,French,cheap,Midtown,13:34,23:46,3.6,false
+140,Rohan Inc,Thai,cheap,Greenpoint,13:36,22:44,3.7,false
+141,Doyle-O'Reilly,American,cheap,Bushwick,13:53,23:48,1.6,true
+142,Zieme LLC,Spanish,expensive,Bushwick,12:18,21:44,2.4,false
+143,Cole-Swaniawski,Greek,cheap,Williamsburg,11:52,23:19,4.0,true
+144,"Dooley, Deckow and Lynch",Vietnamese,cheap,Astoria,11:23,23:00,3.4,true
+145,"Cummings, Quigley and Blick",Greek,median,Park Slope,13:27,21:38,3.1,false
+146,Dicki-Padberg,American,median,Upper East Side,10:33,22:51,3.4,false
+147,Kunde Inc,Spanish,expensive,Midtown,11:31,21:51,3.5,true
+148,Kuphal Inc,Mexican,cheap,Upper East Side,12:00,23:20,2.1,true
+149,"Smith, Heaney and Kshlerin",Mexican,median,Harlem,12:48,23:15,2.6,false
+150,VonRueden LLC,Italian,expensive,Harlem,13:35,22:26,1.4,false
+151,Mills-Schneider,Spanish,expensive,Park Slope,12:50,22:36,3.6,true
+152,"Stark, Kessler and Armstrong",French,expensive,Harlem,12:42,22:12,3.0,false
+153,Yundt LLC,Greek,median,Upper East Side,11:02,22:07,3.7,true
+154,"Collier, Turner and Fahey",Thai,expensive,Park Slope,13:31,23:16,1.8,false
+155,Dare-Lindgren,Mexican,expensive,Chelsea,13:10,23:44,3.4,true
+156,"Berge, Bradtke and Spencer",Chinese,expensive,Astoria,10:28,22:37,3.5,true
+157,"Nader, Rosenbaum and Hettinger",French,cheap,Greenpoint,13:28,22:08,1.8,true
+158,Collins-Steuber,French,median,Harlem,13:02,23:28,2.8,false
+159,"Spinka, Collier and Herzog",Chinese,expensive,Upper East Side,11:45,23:05,3.3,true
+160,Olson-Lueilwitz,Spanish,median,Park Slope,11:49,21:40,1.5,false
+161,Hand-Bergnaum,Brazilian,median,Upper East Side,13:07,23:21,4.8,true
+162,"Kulas, Walsh and McLaughlin",Greek,median,Astoria,12:35,22:29,2.1,false
+163,"Larkin, Friesen and D'Amore",Indian,cheap,Greenpoint,13:52,23:04,3.7,true
+164,Deckow-Mraz,Mediterranean,median,Upper East Side,10:52,23:00,2.3,true
+165,"Wolf, Frami and Dare",Brazilian,expensive,Harlem,13:48,21:59,2.2,false
+166,Weissnat-Barton,Greek,cheap,Astoria,11:37,21:47,1.8,true
+167,Huels-Mueller,Japanese,expensive,Chelsea,10:05,21:33,2.1,false
+168,Osinski-Lind,American,expensive,Williamsburg,11:28,22:51,2.2,false
+169,Welch-Bradtke,Thai,median,Upper East Side,13:38,22:18,1.5,false
+170,"Franecki, Runte and Bernier",Korean,median,Williamsburg,13:45,22:49,2.4,false
+171,Greenfelder and Sons,Mexican,median,Bushwick,12:29,22:29,2.0,true
+172,"Rogahn, Bernier and Aufderhar",Mexican,cheap,Midtown,12:06,22:09,4.8,false
+173,"Little, Mosciski and Koss",Spanish,cheap,Chelsea,13:12,22:16,2.8,true
+174,Hauck and Sons,Japanese,median,Harlem,13:29,22:26,1.0,false
+175,"Reilly, Jenkins and Shanahan",American,cheap,Bushwick,11:30,23:37,4.0,false
+176,McCullough-Spencer,Mexican,cheap,Chelsea,11:36,22:40,1.9,false
+177,Friesen-Medhurst,Korean,cheap,Lower East Side,12:33,22:16,2.1,true
+178,Walker LLC,Mediterranean,median,Harlem,10:20,23:56,3.7,true
+179,"Krajcik, Corwin and Huel",Mexican,median,Astoria,12:38,22:09,2.5,true
+180,Marks Group,Chinese,median,Williamsburg,12:21,22:49,2.5,false
+181,"Schowalter, Purdy and Weimann",French,cheap,Astoria,10:34,23:33,2.3,true
+182,"Dach, Effertz and Schimmel",Italian,expensive,Harlem,12:43,23:41,2.2,false
+183,"Lueilwitz, Bode and Harris",Japanese,cheap,Astoria,11:43,22:05,4.3,false
+184,Stokes Inc,French,expensive,Midtown,10:20,22:44,1.2,false
+185,"Brown, Balistreri and Morar",Vietnamese,expensive,Lower East Side,13:41,21:56,1.7,true
+186,Hauck-Strosin,Greek,expensive,Lower East Side,10:36,23:00,4.5,false
+187,"Bosco, Nikolaus and Ferry",American,cheap,Greenpoint,10:33,23:57,1.8,false
+188,Feil Inc,Thai,median,Upper East Side,11:25,23:58,3.9,false
+189,Fadel Inc,Italian,median,Greenpoint,13:14,23:03,4.2,true
+190,Raynor-Harvey,Mexican,expensive,Bushwick,11:45,23:09,3.9,true
+191,Davis-Yundt,American,median,Greenpoint,12:43,23:36,2.0,true
+192,"Connelly, Sipes and Spencer",Brazilian,median,Williamsburg,13:21,22:03,4.7,false
+193,Hickle Inc,Vietnamese,expensive,Park Slope,10:15,22:48,1.5,true
+194,Marks-McClure,Italian,median,Park Slope,12:40,21:57,1.8,false
+195,"Yost, Turcotte and Spinka",Thai,median,Bushwick,11:32,22:31,4.2,true
+196,Reilly Group,Japanese,median,Williamsburg,13:24,21:49,1.8,false
+197,Blick LLC,Greek,expensive,Upper East Side,10:44,21:34,1.8,true
+198,Padberg-Collier,Greek,median,Williamsburg,10:13,23:56,4.4,false
+199,"Greenholt, Tillman and Monahan",Spanish,cheap,Park Slope,11:00,23:20,3.5,true
+200,Langosh and Sons,Chinese,median,Upper East Side,12:41,21:56,1.0,false
+201,Wiza and Sons,Brazilian,cheap,Bushwick,12:01,21:42,3.3,true
+202,Hodkiewicz-Keebler,Thai,median,Bushwick,11:15,22:08,2.9,true
+203,Turcotte Group,Japanese,median,Greenpoint,13:23,23:53,2.7,true
+204,Friesen-Schneider,American,median,Astoria,12:11,22:26,3.0,false
+205,Pfeffer Group,Spanish,expensive,Astoria,13:02,22:24,2.1,false
+206,Braun-Howell,Mexican,cheap,Astoria,11:24,22:52,3.1,true
+207,Johnson Group,American,median,Harlem,10:41,23:26,3.5,false
+208,Weissnat-Bergnaum,Italian,median,Harlem,13:44,22:54,1.8,true
+209,"Smitham, Williamson and Schamberger",Vietnamese,cheap,Williamsburg,12:37,22:22,4.3,true
+210,"Romaguera, Dare and Bode",Spanish,cheap,Astoria,11:59,22:24,4.0,false
+211,Grady-Bruen,Greek,cheap,Williamsburg,13:04,23:47,2.1,false
+212,"Quigley, Bednar and Fisher",Indian,median,Chelsea,10:57,22:46,3.0,true
+213,Larkin-Streich,Mexican,cheap,Greenpoint,10:06,23:25,3.7,true
+214,Ebert-Reichel,Mediterranean,median,Upper East Side,10:01,21:51,3.5,true
+215,"Brakus, Purdy and Harris",Greek,expensive,Midtown,11:58,21:58,1.1,true
+216,Armstrong Group,Vietnamese,median,Midtown,11:16,23:43,4.9,true
+217,"Muller, O'Keefe and Gutmann",French,expensive,Park Slope,12:06,23:35,4.5,false
+218,"Anderson, Olson and Stamm",Brazilian,expensive,Astoria,10:01,23:22,2.1,false
+219,"Wiza, Franecki and Turner",Spanish,median,Bushwick,11:47,23:47,4.1,true
+220,"Kuvalis, Murphy and Bailey",French,median,Bushwick,13:13,22:03,3.8,true
+221,Altenwerth-Leffler,Vietnamese,median,Lower East Side,10:24,22:30,1.6,true
+222,Mante-Bins,Greek,median,Lower East Side,13:24,22:41,4.9,true
+223,Rice LLC,Japanese,expensive,Midtown,10:41,21:49,2.3,false
+224,Mayert-Franecki,Vietnamese,median,Park Slope,13:43,21:35,3.9,true
+225,Greenfelder-King,Korean,expensive,Williamsburg,11:04,23:39,2.6,false
+226,"Sawayn, Thompson and White",Korean,median,Williamsburg,13:08,21:37,4.3,true
+227,"Hilll, Ruecker and Goodwin",Vietnamese,cheap,Upper East Side,10:39,22:59,1.4,false
+228,"Prohaska, Gislason and Boehm",Italian,median,Midtown,10:19,21:49,2.3,true
+229,Wilkinson and Sons,Indian,expensive,Upper East Side,13:33,23:28,3.1,false
+230,Wintheiser-Bosco,Brazilian,cheap,Park Slope,13:30,22:32,3.7,true
+231,"Turcotte, Waelchi and Heaney",Japanese,expensive,Upper East Side,11:33,21:38,4.3,false
+232,Kertzmann-Kozey,Brazilian,cheap,Lower East Side,12:02,22:17,2.5,true
+233,Rutherford Group,Spanish,expensive,Harlem,13:13,22:37,4.3,true
+234,"Lesch, King and Wintheiser",Mexican,cheap,Lower East Side,13:12,22:00,1.7,false
+235,McClure-Rogahn,Spanish,expensive,Astoria,11:33,23:16,3.3,true
+236,"McClure, Ondricka and Raynor",French,expensive,Lower East Side,12:57,23:42,1.2,true
+237,Mraz LLC,Indian,expensive,Midtown,13:00,23:23,2.0,true
+238,"Kuhn, Bogan and Simonis",Indian,cheap,Lower East Side,12:25,23:29,3.0,true
+239,"Dickinson, Kemmer and Kessler",Spanish,cheap,Upper East Side,13:25,23:54,3.1,false
+240,Wyman-Bergnaum,Greek,cheap,Greenpoint,13:26,23:48,3.0,true
+241,Dickinson-Predovic,Japanese,expensive,Lower East Side,11:19,23:44,4.7,false
+242,Pfeffer and Sons,Indian,expensive,Upper East Side,12:38,21:35,4.2,true
+243,"Conn, Stroman and Kutch",Mexican,cheap,Upper East Side,13:49,22:58,1.9,false
+244,Lesch-Ziemann,Mexican,expensive,Harlem,13:53,22:00,1.9,false
+245,"Considine, Lesch and Hoppe",Brazilian,median,Park Slope,10:40,23:53,3.9,true
+246,"Batz, Nader and Gulgowski",Korean,cheap,Harlem,12:49,23:15,3.2,true
+247,Rice-Ondricka,Vietnamese,median,Midtown,12:41,21:46,3.0,false
+248,Marquardt-O'Connell,French,expensive,Harlem,11:26,23:06,1.0,false
+249,Mayer Inc,Chinese,cheap,Greenpoint,13:43,22:28,2.9,false
+250,"Wehner, Shields and Casper",Greek,cheap,Astoria,13:47,22:16,4.4,true
+251,"Bauch, Wehner and Christiansen",Mexican,expensive,Chelsea,13:21,21:36,3.6,true
+252,Bednar-Wilkinson,Mediterranean,cheap,Bushwick,11:19,21:36,3.1,false
+253,"Kohler, Sawayn and Beatty",French,cheap,Midtown,12:36,23:10,4.5,true
+254,"Carroll, Goldner and Feil",Korean,expensive,Chelsea,11:47,22:31,2.4,true
+255,"Frami, Schmitt and Simonis",Italian,median,Harlem,13:21,22:31,1.7,false
+256,"Morar, Pollich and Hermiston",Vietnamese,median,Lower East Side,11:30,22:05,2.9,true
+257,"Adams, Lind and Wiza",French,expensive,Greenpoint,12:01,23:32,3.5,false
+258,Hand-Hills,Greek,median,Greenpoint,11:38,22:22,3.8,false
+259,"Weissnat, Heller and Carroll",Greek,expensive,Astoria,11:38,22:59,4.8,true
+260,Murazik LLC,Mexican,expensive,Chelsea,12:26,23:55,3.3,false
+261,"King, Bins and Kshlerin",Italian,expensive,Upper East Side,11:27,23:13,1.3,true
+262,Reichert Group,Mediterranean,median,Bushwick,12:25,21:52,2.8,true
+263,Rutherford LLC,Mexican,expensive,Bushwick,13:12,23:51,1.6,false
+264,Quitzon-Schmitt,Thai,expensive,Upper East Side,13:25,23:46,1.7,false
+265,Shields and Sons,Indian,expensive,Harlem,10:29,23:08,1.5,true
+266,Hilll LLC,Greek,expensive,Bushwick,13:13,22:51,3.2,false
+267,Aufderhar-Ratke,Italian,cheap,Chelsea,12:38,22:28,2.7,true
+268,Beier Group,Spanish,median,Midtown,11:59,23:26,3.0,true
+269,Roberts-Konopelski,Brazilian,expensive,Chelsea,11:30,22:42,2.3,false
+270,Muller Group,Japanese,expensive,Upper East Side,12:23,21:37,4.8,true
+271,Gleichner Inc,Indian,expensive,Lower East Side,10:08,22:14,3.4,false
+272,Jacobs-Kuhlman,Vietnamese,expensive,Midtown,11:44,22:33,1.5,true
+273,Beier LLC,Greek,cheap,Lower East Side,13:55,23:03,2.7,true
+274,"Moen, Bartoletti and Kautzer",Thai,median,Park Slope,12:15,23:49,2.7,true
+275,Turner Inc,Chinese,expensive,Upper East Side,11:12,22:23,4.5,false
+276,"Spencer, O'Conner and Gorczany",Thai,expensive,Lower East Side,11:47,21:48,4.5,true
+277,Jerde-Fisher,Italian,expensive,Bushwick,11:31,22:39,1.6,true
+278,Hettinger-Emard,Vietnamese,expensive,Park Slope,13:26,22:04,3.6,false
+279,"Hirthe, Hilpert and Ritchie",American,expensive,Astoria,13:48,22:25,4.7,true
+280,Medhurst and Sons,Mexican,expensive,Greenpoint,13:01,22:58,4.1,false
+281,Crona-Balistreri,Italian,cheap,Lower East Side,12:21,23:30,4.9,true
+282,Oberbrunner Inc,French,median,Chelsea,12:26,22:33,1.7,false
+283,Gutkowski-Doyle,French,cheap,Upper East Side,13:33,22:21,3.6,false
+284,Botsford LLC,Italian,median,Park Slope,10:05,23:44,3.5,true
+285,Satterfield-Collins,French,expensive,Park Slope,10:31,23:22,4.1,true
+286,"Nolan, Larkin and Marquardt",Mediterranean,expensive,Midtown,12:16,23:54,3.8,false
+287,Gislason-Schuppe,Korean,median,Chelsea,11:17,23:19,2.3,true
+288,Collins-Heaney,French,expensive,Upper East Side,12:52,22:02,2.2,false
+289,"Stiedemann, Lebsack and Labadie",Chinese,median,Bushwick,13:47,23:20,4.8,true
+290,Murphy Inc,Vietnamese,median,Park Slope,13:38,23:44,3.6,true
+291,"Reilly, Stark and Wolff",Spanish,median,Bushwick,13:39,23:23,3.1,true
+292,Hartmann LLC,Brazilian,expensive,Greenpoint,11:03,23:56,1.4,false
+293,"Hane, Powlowski and Hoppe",Brazilian,cheap,Astoria,13:10,21:50,4.8,true
+294,Stroman and Sons,Japanese,expensive,Lower East Side,10:48,22:56,4.8,true
+295,O'Conner-Kautzer,Mediterranean,median,Park Slope,13:39,22:01,1.1,false
+296,Kunde Inc,Brazilian,cheap,Midtown,13:58,22:06,4.4,false
+297,Quitzon LLC,American,expensive,Upper East Side,12:23,22:34,1.5,true
+298,Kshlerin Group,Greek,median,Astoria,13:50,22:06,3.1,true
+299,Bauch-Jakubowski,French,expensive,Park Slope,13:44,22:05,4.7,false
+300,"Hane, Jacobi and Kozey",Japanese,cheap,Upper East Side,13:27,21:40,3.8,true
+301,"Fritsch, Schneider and O'Reilly",Greek,median,Upper East Side,11:38,23:55,1.4,false
+302,"Green, Kunde and Quigley",Italian,median,Astoria,10:50,23:31,4.8,true
+303,"Lowe, Satterfield and Klocko",Mediterranean,expensive,Lower East Side,13:44,23:17,3.4,false
+304,"Nienow, Robel and Larson",Mexican,cheap,Park Slope,11:17,23:51,4.6,true
+305,Luettgen-Greenholt,Spanish,median,Upper East Side,12:21,22:40,1.1,false
+306,McCullough-Douglas,Spanish,cheap,Park Slope,10:15,22:11,3.4,true
+307,"Feeney, O'Connell and Reilly",French,median,Greenpoint,13:18,22:43,1.4,true
+308,"Gutmann, Emard and Hyatt",Chinese,expensive,Williamsburg,11:11,22:45,2.1,true
+309,Borer-Ziemann,French,cheap,Greenpoint,13:48,22:46,3.6,false
+310,Batz LLC,Chinese,cheap,Williamsburg,10:37,21:54,5.0,true
+311,King Inc,French,cheap,Harlem,11:03,21:54,4.1,true
+312,Grimes and Sons,Japanese,median,Bushwick,10:35,22:41,1.8,true
+313,Predovic-Lebsack,Mexican,expensive,Lower East Side,12:15,22:31,1.6,false
+314,Sanford-Kemmer,Korean,median,Park Slope,12:15,23:23,1.2,true
+315,Bode LLC,Japanese,median,Park Slope,10:03,23:03,1.8,true
+316,"Anderson, Ullrich and Ullrich",Italian,median,Astoria,12:13,22:22,1.8,true
+317,McLaughlin LLC,Italian,expensive,Chelsea,12:18,23:31,4.7,false
+318,Jast Inc,Spanish,cheap,Park Slope,11:29,22:49,4.4,false
+319,"Ward, Cole and Daniel",Greek,median,Park Slope,12:23,22:34,3.2,true
+320,"Rempel, Yundt and Kuphal",Mediterranean,cheap,Williamsburg,11:15,21:55,4.3,false
+321,"Torphy, Koelpin and Graham",Vietnamese,cheap,Astoria,13:38,23:33,3.2,false
+322,Denesik LLC,Spanish,expensive,Park Slope,13:06,21:44,3.5,true
+323,Gerhold-Schmidt,Spanish,cheap,Williamsburg,11:38,21:55,4.5,true
+324,"Hansen, Wintheiser and Treutel",Brazilian,expensive,Harlem,13:31,23:11,4.0,false
+325,"Bernhard, Harris and Glover",Italian,cheap,Park Slope,13:30,22:19,3.3,true
+326,Strosin Inc,French,cheap,Park Slope,11:44,23:30,4.3,false
+327,"Kreiger, Frami and Collier",American,cheap,Harlem,13:51,21:50,4.2,false
+328,"Rosenbaum, Ankunding and Kutch",American,cheap,Astoria,12:41,23:24,1.0,false
+329,McCullough Inc,American,median,Bushwick,12:31,22:15,3.5,true
+330,"Cassin, Johnston and Pollich",Japanese,expensive,Park Slope,13:42,21:55,1.2,false
+331,"Barton, Abshire and Kessler",Japanese,median,Greenpoint,13:04,22:12,1.1,false
+332,"Legros, Sanford and Marks",Vietnamese,expensive,Upper East Side,12:14,22:11,3.1,true
+333,Schiller Inc,Brazilian,cheap,Bushwick,13:52,22:09,4.8,false
+334,"Brown, Kub and Haley",Japanese,cheap,Midtown,12:31,23:15,4.2,true
+335,Tillman Group,Brazilian,median,Greenpoint,10:44,22:16,2.6,false
+336,Crist Inc,Chinese,median,Greenpoint,11:38,21:35,4.3,false
+337,Runolfsdottir Group,Chinese,cheap,Harlem,13:32,22:37,1.1,true
+338,Runte Group,Mexican,median,Chelsea,12:01,22:05,3.2,false
+339,Beahan-Kerluke,Thai,expensive,Bushwick,12:07,22:58,2.5,true
+340,Walter-Ernser,Chinese,median,Astoria,12:17,23:02,4.8,true
+341,O'Kon-Robel,Thai,cheap,Harlem,10:41,21:59,4.3,true
+342,"Crona, Waelchi and Torp",Thai,expensive,Upper East Side,12:03,23:35,4.7,false
+343,"Bailey, Beahan and Russel",Chinese,cheap,Chelsea,13:36,23:05,1.6,true
+344,Goyette-Waters,Japanese,expensive,Upper East Side,12:58,23:08,3.7,false
+345,Ondricka Inc,Greek,cheap,Chelsea,10:13,23:44,1.9,false
+346,"Walter, Bednar and Hauck",Italian,expensive,Park Slope,13:18,23:19,4.0,true
+347,Hegmann-Champlin,Japanese,cheap,Williamsburg,12:31,23:01,4.4,true
+348,"Christiansen, Walsh and Farrell",Vietnamese,expensive,Bushwick,12:16,23:18,2.9,false
+349,Hills-Bauch,Chinese,expensive,Harlem,11:33,21:55,4.6,true
+350,Kertzmann-Bogan,Greek,cheap,Bushwick,11:01,22:21,1.3,false
+351,"Greenfelder, Conroy and Farrell",American,cheap,Upper East Side,10:39,22:19,3.1,false
+352,Mann-O'Reilly,Mexican,cheap,Chelsea,10:17,22:28,4.2,true
+353,Lemke-Vandervort,Korean,cheap,Greenpoint,12:57,22:00,4.7,true
+354,O'Hara LLC,Brazilian,median,Park Slope,11:17,21:37,1.7,true
+355,"Johnson, DuBuque and Littel",Mediterranean,cheap,Williamsburg,10:25,22:43,4.1,true
+356,Connelly Group,Thai,median,Midtown,11:10,22:23,2.1,true
+357,"Mitchell, Parker and Thompson",Mediterranean,median,Lower East Side,13:31,22:43,4.5,true
+358,"Christiansen, Heaney and Stark",Mediterranean,expensive,Williamsburg,10:06,23:00,4.7,true
+359,Quigley-Hilpert,Mexican,expensive,Midtown,11:44,21:37,3.4,false
+360,Leannon-Kub,Thai,expensive,Astoria,11:56,22:44,3.7,false
+361,Wisozk LLC,Japanese,median,Bushwick,12:00,22:58,4.2,true
+362,Harvey and Sons,Vietnamese,median,Chelsea,11:08,22:55,4.9,true
+363,Herzog-Ortiz,Mexican,expensive,Harlem,10:44,23:57,2.1,false
+364,Hodkiewicz and Sons,Chinese,cheap,Bushwick,12:10,22:07,3.4,false
+365,Quitzon and Sons,Korean,expensive,Park Slope,11:48,23:39,3.2,true
+366,Spinka-Williamson,Italian,cheap,Midtown,13:59,22:47,2.5,true
+367,Bahringer LLC,Vietnamese,cheap,Greenpoint,10:22,23:11,4.4,false
+368,Rath LLC,American,median,Chelsea,10:02,22:34,4.2,true
+369,"Reilly, Treutel and Mayer",Greek,expensive,Harlem,12:20,23:48,2.1,true
+370,"Wisoky, Fay and Kuhlman",Italian,median,Williamsburg,13:13,22:52,2.7,true
+371,Wiza Group,Italian,expensive,Astoria,12:36,23:10,3.1,false
+372,Balistreri-Krajcik,Italian,cheap,Lower East Side,13:26,22:32,3.4,false
+373,Brown LLC,Chinese,expensive,Park Slope,12:24,21:32,4.0,false
+374,"Rau, Zulauf and Kreiger",Thai,median,Williamsburg,10:13,21:36,3.4,true
+375,Cassin-Erdman,Indian,median,Greenpoint,11:47,22:47,1.3,false
+376,Waters LLC,Japanese,expensive,Greenpoint,12:40,23:01,4.3,true
+377,Willms-Baumbach,Thai,median,Upper East Side,12:34,23:18,1.4,false
+378,"Bode, Jaskolski and Nader",Chinese,median,Upper East Side,11:46,23:31,3.8,true
+379,Wisozk Group,Spanish,cheap,Chelsea,11:15,22:34,1.3,true
+380,Larkin and Sons,Italian,expensive,Harlem,12:51,23:20,4.7,true
+381,"Bradtke, Schaefer and Jacobs",Korean,expensive,Astoria,13:23,23:09,3.8,true
+382,"Cassin, Metz and Keeling",Spanish,expensive,Upper East Side,10:26,23:28,1.5,true
+383,Dickens LLC,American,expensive,Harlem,10:51,23:07,3.9,false
+384,"Leannon, Lowe and Cummerata",Chinese,expensive,Chelsea,12:15,23:13,3.7,true
+385,Wisoky-Gorczany,French,median,Midtown,13:06,23:49,1.4,true
+386,"Graham, McKenzie and Lueilwitz",Thai,expensive,Bushwick,11:21,23:12,4.9,true
+387,Klein and Sons,Brazilian,median,Williamsburg,11:12,23:24,1.3,true
+388,Ortiz Group,Thai,median,Chelsea,11:52,21:51,3.2,true
+389,Pfannerstill-Bernhard,Japanese,median,Harlem,11:48,23:13,3.9,true
+390,Lynch-Christiansen,Italian,cheap,Upper East Side,10:45,23:44,3.4,false
+391,"Rath, Lemke and Rempel",Greek,median,Williamsburg,11:55,23:54,2.8,true
+392,"Powlowski, Luettgen and Heaney",Chinese,cheap,Upper East Side,10:25,23:50,3.4,true
+393,"Crooks, Kutch and Bosco",Indian,cheap,Park Slope,12:42,22:33,1.8,false
+394,Moore-Cummerata,Chinese,cheap,Harlem,10:03,21:55,3.8,false
+395,Greenholt-Padberg,American,cheap,Chelsea,11:10,21:47,1.5,true
+396,Towne-Bauch,Japanese,cheap,Midtown,10:42,23:25,2.4,false
+397,"Breitenberg, Runolfsson and Ziemann",Indian,median,Astoria,12:11,23:17,2.2,true
+398,Boehm Inc,Chinese,expensive,Bushwick,11:44,23:48,3.6,true
+399,Mueller Inc,Mexican,expensive,Chelsea,12:31,23:55,1.2,true
+400,"Keeling, Batz and Okuneva",Indian,expensive,Park Slope,13:07,21:55,2.3,true
+401,Crist-Lynch,Mediterranean,median,Upper East Side,11:52,22:22,2.4,false
+402,"Bernhard, Ritchie and Pfannerstill",Mexican,median,Lower East Side,13:27,23:39,1.4,false
+403,"Jacobi, Abbott and Leannon",Italian,expensive,Williamsburg,13:21,22:35,4.7,true
+404,Bayer and Sons,Mediterranean,median,Astoria,13:01,22:01,2.4,false
+405,"Wintheiser, Witting and Lebsack",Brazilian,cheap,Harlem,12:01,21:31,2.3,true
+406,"Bradtke, Hoeger and King",Vietnamese,expensive,Harlem,10:42,22:07,3.4,true
+407,McGlynn LLC,Greek,median,Bushwick,10:44,23:08,1.3,true
+408,"Kuhlman, Jacobs and Hansen",Greek,expensive,Upper East Side,10:47,23:53,3.2,false
+409,Abbott LLC,Thai,cheap,Astoria,11:46,23:04,1.8,false
+410,Howell LLC,Thai,cheap,Harlem,10:11,23:09,4.9,true
+411,Langosh LLC,French,cheap,Harlem,11:47,22:50,3.8,false
+412,"Stehr, Johnson and Rath",Vietnamese,expensive,Astoria,11:51,23:02,3.6,false
+413,Schuster Inc,Japanese,cheap,Harlem,13:34,21:34,2.8,false
+414,Hansen Inc,Italian,median,Upper East Side,12:17,23:20,2.7,false
+415,Shanahan and Sons,Italian,median,Midtown,13:36,23:33,1.5,true
+416,Cassin-McGlynn,American,cheap,Harlem,13:48,23:30,4.7,false
+417,"Ledner, Gibson and Thiel",Japanese,median,Lower East Side,12:54,23:29,3.7,false
+418,Kutch-Boyle,Italian,expensive,Chelsea,10:05,21:53,3.7,false
+419,Lang-Ratke,French,expensive,Bushwick,11:15,23:30,3.2,false
+420,Wolf LLC,Mediterranean,expensive,Chelsea,10:52,22:04,2.9,false
+421,"Brakus, Nader and Hudson",American,expensive,Harlem,10:31,21:41,3.2,false
+422,Donnelly-Cormier,Greek,expensive,Harlem,11:57,22:09,1.8,true
+423,"Langosh, Dickens and Ziemann",French,median,Park Slope,10:28,23:30,4.2,false
+424,King-Klein,Mexican,cheap,Chelsea,13:38,23:20,1.8,true
+425,Prosacco LLC,Vietnamese,expensive,Harlem,12:59,21:40,1.2,true
+426,"Bernier, Bode and Simonis",French,expensive,Greenpoint,13:16,22:08,2.5,true
+427,Volkman-Boyer,Vietnamese,cheap,Harlem,13:32,23:26,1.7,false
+428,Ankunding-Parisian,Mexican,cheap,Upper East Side,12:20,23:19,1.6,false
+429,"Koch, Raynor and Rohan",French,median,Upper East Side,12:12,22:28,4.5,false
+430,Koch-Herman,Chinese,median,Harlem,12:15,22:01,4.8,false
+431,Schroeder LLC,Indian,expensive,Williamsburg,10:31,23:10,1.7,false
+432,"Effertz, Pollich and Gleichner",Japanese,median,Midtown,10:04,23:16,1.8,false
+433,Hoppe Group,Korean,cheap,Astoria,10:41,22:46,3.8,true
+434,Johns LLC,Chinese,cheap,Williamsburg,11:58,22:05,4.8,false
+435,Rau-Koelpin,French,expensive,Chelsea,12:02,22:37,4.2,false
+436,Harber-Toy,Mexican,cheap,Lower East Side,11:44,21:42,3.0,false
+437,"Bogan, Streich and Hartmann",Thai,expensive,Lower East Side,12:53,22:36,3.8,true
+438,"Littel, Fritsch and Rolfson",Mediterranean,median,Upper East Side,10:26,22:45,1.8,true
+439,Kutch-Dicki,Mediterranean,expensive,Astoria,11:47,23:56,1.9,true
+440,Lindgren Group,Japanese,expensive,Park Slope,10:02,22:43,4.3,false
+441,Lockman Inc,Thai,cheap,Williamsburg,10:17,22:48,3.7,false
+442,Buckridge-Kertzmann,Korean,cheap,Greenpoint,11:10,23:01,2.6,false
+443,Hoppe Group,Mexican,cheap,Williamsburg,13:43,21:42,4.9,true
+444,Mosciski-Cruickshank,Mexican,median,Upper East Side,11:09,22:09,1.3,true
+445,Huels-Swift,Chinese,expensive,Midtown,11:00,22:16,3.6,false
+446,Adams and Sons,French,expensive,Harlem,10:56,22:32,3.1,true
+447,"Bins, Koch and Aufderhar",Italian,expensive,Chelsea,11:53,22:06,2.4,false
+448,"Franecki, Conroy and Hoeger",Chinese,expensive,Greenpoint,10:47,23:49,2.0,false
+449,"Johnston, VonRueden and Hayes",Vietnamese,median,Chelsea,11:39,21:45,3.0,true
+450,"Heaney, Welch and Johnston",Vietnamese,cheap,Upper East Side,11:11,21:44,5.0,true
+451,Leuschke Group,Mexican,expensive,Williamsburg,10:17,23:24,3.3,true
+452,Wolff-Powlowski,Mediterranean,expensive,Chelsea,13:46,21:30,3.5,true
+453,Koss-Runte,Japanese,median,Chelsea,10:15,22:46,4.0,true
+454,Heaney-Kohler,Mediterranean,median,Harlem,13:15,23:44,3.0,true
+455,"Dare, Wilderman and Swift",Mediterranean,cheap,Williamsburg,10:36,21:42,4.6,true
+456,O'Reilly LLC,Vietnamese,expensive,Chelsea,11:57,21:33,2.3,false
+457,Paucek-Reichel,Spanish,cheap,Bushwick,13:20,22:39,4.9,true
+458,Harris-Harber,Vietnamese,median,Bushwick,12:34,23:48,4.0,false
+459,Green-Wilkinson,Brazilian,cheap,Astoria,12:14,22:26,1.4,true
+460,Murray-Marquardt,Mediterranean,median,Upper East Side,11:48,21:41,2.7,true
+461,Gutkowski Inc,Chinese,cheap,Greenpoint,12:11,21:59,4.0,false
+462,Erdman-Pfannerstill,Mexican,expensive,Williamsburg,10:34,21:41,2.4,true
+463,Parisian-Mayert,Mexican,cheap,Astoria,12:19,23:08,3.0,true
+464,Jacobi Inc,Vietnamese,median,Williamsburg,12:56,23:19,1.9,true
+465,McLaughlin-Zemlak,Chinese,cheap,Astoria,13:59,23:38,1.9,true
+466,"Cole, Rice and Osinski",Indian,cheap,Park Slope,13:03,22:53,4.8,true
+467,Botsford-Tremblay,American,expensive,Midtown,10:14,22:52,1.4,false
+468,Gleason-Miller,Italian,median,Park Slope,11:52,21:44,1.2,true
+469,Kohler and Sons,Mediterranean,expensive,Bushwick,12:02,22:21,1.6,true
+470,"Hayes, Raynor and Abshire",Greek,median,Greenpoint,13:19,21:52,3.4,true
+471,Quitzon and Sons,Mediterranean,median,Astoria,11:27,22:09,2.6,true
+472,Becker and Sons,Brazilian,median,Harlem,12:38,22:32,1.6,true
+473,Williamson-Ward,Italian,cheap,Williamsburg,12:33,23:55,2.1,false
+474,Ernser and Sons,French,cheap,Astoria,10:50,21:46,1.8,false
+475,Bednar Group,Korean,median,Bushwick,13:50,21:40,3.8,false
+476,Barton and Sons,Mexican,cheap,Astoria,12:03,21:40,2.0,false
+477,Carter-Ruecker,Vietnamese,cheap,Astoria,13:16,22:45,4.6,true
+478,Swift Inc,American,cheap,Greenpoint,10:43,22:51,2.0,false
+479,"Marvin, Ryan and Schaefer",Greek,median,Harlem,10:46,23:58,1.4,true
+480,Wilkinson-Rutherford,Japanese,expensive,Astoria,10:30,22:18,4.8,true
+481,"Beier, Emmerich and Kerluke",Chinese,median,Astoria,11:26,22:32,4.3,true
+482,Collins Group,Mediterranean,median,Astoria,11:43,22:05,4.0,true
+483,Lueilwitz LLC,American,expensive,Park Slope,10:41,21:42,3.9,false
+484,"Donnelly, Tremblay and Hilpert",Spanish,cheap,Astoria,13:25,22:55,4.5,true
+485,Schroeder-Block,Mediterranean,median,Park Slope,12:22,22:51,3.8,false
+486,"Weissnat, Mills and Kunze",Spanish,cheap,Bushwick,11:08,22:54,1.1,true
+487,"Daniel, Abernathy and Bosco",Japanese,median,Midtown,13:13,22:32,2.2,true
+488,"Armstrong, Carter and Mraz",Mediterranean,expensive,Park Slope,11:17,21:35,2.0,true
+489,"Blick, Koch and Ortiz",Mediterranean,median,Astoria,10:22,23:07,3.0,false
+490,"Bergnaum, Romaguera and Buckridge",American,cheap,Bushwick,13:23,22:18,2.5,true
+491,"Friesen, Abernathy and Rodriguez",Brazilian,expensive,Harlem,10:37,22:14,2.6,true
+492,"Lockman, Quigley and Wehner",Spanish,cheap,Greenpoint,13:47,22:03,2.8,false
+493,Trantow-Schoen,Vietnamese,cheap,Bushwick,13:20,22:25,3.6,true
+494,"Jacobson, Lueilwitz and Denesik",Chinese,expensive,Bushwick,11:30,23:11,1.2,false
+495,D'Amore-Schuster,Thai,expensive,Astoria,12:35,23:15,2.1,true
+496,"Roob, Koelpin and Pouros",Japanese,expensive,Astoria,13:40,22:44,2.8,true
+497,Nicolas and Sons,Korean,cheap,Bushwick,13:21,23:33,3.8,true
+498,Lowe LLC,Indian,median,Park Slope,11:21,22:00,3.3,false
+499,Ratke and Sons,Mediterranean,expensive,Midtown,10:44,21:51,3.1,false
+500,Sauer LLC,Chinese,median,Astoria,13:00,23:41,2.8,true
+501,"Beahan, Emard and McLaughlin",Chinese,cheap,Astoria,10:08,22:19,4.3,false
+502,"Cole, Shanahan and Wehner",Mediterranean,expensive,Williamsburg,13:36,21:37,2.0,true
+503,"Okuneva, Casper and Stokes",American,cheap,Upper East Side,12:48,23:36,1.5,true
+504,"Abernathy, Cormier and Weber",Korean,expensive,Bushwick,13:50,22:24,3.5,false
+505,Pfeffer Inc,Japanese,expensive,Park Slope,11:17,23:36,4.2,true
+506,Swaniawski-Altenwerth,American,expensive,Harlem,10:49,23:03,4.8,false
+507,"Ward, Parker and Ondricka",Indian,expensive,Bushwick,10:36,22:25,3.0,false
+508,Bartell Group,American,median,Upper East Side,13:33,23:09,2.1,false
+509,Weber LLC,Thai,expensive,Park Slope,13:25,23:38,1.1,false
+510,"Ferry, Hansen and Lindgren",Brazilian,expensive,Greenpoint,12:08,21:49,4.7,true
+511,"Keeling, Dare and King",Spanish,cheap,Williamsburg,11:01,22:44,3.7,false
+512,"Krajcik, Friesen and Metz",Spanish,median,Midtown,10:23,23:46,2.3,true
+513,"Von, Crist and Little",Brazilian,cheap,Park Slope,11:02,23:03,4.8,false
+514,"Senger, Hauck and Graham",Spanish,expensive,Lower East Side,13:11,23:52,1.5,false
+515,Muller-Wiegand,Japanese,cheap,Greenpoint,10:45,22:43,4.4,true
+516,Kuhlman Inc,Greek,cheap,Park Slope,13:59,23:48,1.5,false
+517,"Stehr, Langosh and Reichert",American,median,Astoria,10:39,22:26,2.2,true
+518,"Rolfson, Grady and Lynch",Spanish,expensive,Bushwick,11:43,23:32,2.0,true
+519,Huels-Krajcik,Mexican,cheap,Chelsea,13:10,22:53,1.7,false
+520,Hintz LLC,Korean,expensive,Williamsburg,10:31,23:47,1.9,true
+521,Mraz Group,Thai,cheap,Park Slope,10:38,23:12,4.9,true
+522,Reichert Inc,Mexican,expensive,Astoria,12:04,23:12,4.7,true
+523,Raynor-Hessel,Chinese,expensive,Astoria,11:11,21:38,3.5,false
+524,Watsica LLC,American,cheap,Upper East Side,11:30,23:45,3.4,true
+525,"Hessel, Howe and Becker",Mexican,expensive,Lower East Side,13:32,22:14,1.9,true
+526,Sauer Group,Thai,median,Lower East Side,13:56,22:15,4.9,false
+527,Hessel-O'Keefe,Thai,cheap,Midtown,13:27,22:39,1.0,true
+528,Ullrich-Heathcote,Chinese,expensive,Park Slope,12:18,22:18,2.8,true
+529,"McClure, Crist and Monahan",Brazilian,cheap,Chelsea,13:44,23:03,1.8,true
+530,"Erdman, Bahringer and Lowe",French,expensive,Greenpoint,12:35,23:23,4.7,false
+531,"Mayert, Buckridge and Stokes",Spanish,expensive,Lower East Side,10:27,22:58,2.7,false
+532,Rau Inc,Chinese,median,Harlem,13:58,22:13,4.7,false
+533,Kihn Group,Chinese,median,Astoria,12:10,22:46,3.9,true
+534,"Ankunding, Simonis and Hyatt",Italian,median,Astoria,13:46,21:41,2.3,true
+535,"McDermott, Legros and Emard",Spanish,expensive,Williamsburg,11:57,21:59,1.6,true
+536,Konopelski Inc,Mexican,expensive,Midtown,11:17,21:45,3.6,true
+537,Kunze-Roob,Italian,expensive,Lower East Side,13:36,23:37,3.4,true
+538,Brakus-Stiedemann,Spanish,cheap,Upper East Side,11:06,23:37,1.1,true
+539,Littel and Sons,French,cheap,Park Slope,10:34,23:56,2.9,false
+540,"Pagac, Fahey and Effertz",Vietnamese,expensive,Chelsea,13:36,23:10,4.8,true
+541,Zboncak-Gusikowski,Chinese,median,Williamsburg,12:57,21:42,4.4,true
+542,"Krajcik, Zieme and O'Hara",Chinese,cheap,Bushwick,10:11,23:28,1.1,true
+543,"Grady, Conn and Bernier",French,cheap,Midtown,12:13,22:22,4.5,true
+544,Jaskolski-Zieme,Mediterranean,median,Williamsburg,11:47,23:00,3.7,true
+545,"Little, Rogahn and Stanton",Korean,cheap,Greenpoint,13:03,21:54,1.4,true
+546,Sipes-Fay,Indian,expensive,Astoria,10:56,21:52,4.0,true
+547,Ferry LLC,Italian,cheap,Midtown,10:27,21:38,3.6,true
+548,Deckow-Ebert,Italian,cheap,Lower East Side,12:27,21:47,3.9,true
+549,"Schumm, Windler and Carter",Spanish,cheap,Astoria,13:42,21:35,4.9,false
+550,Mayer-Jacobson,Vietnamese,expensive,Park Slope,12:48,21:40,1.2,false
+551,Emmerich and Sons,Mexican,cheap,Midtown,11:07,22:49,2.0,false
+552,Wintheiser and Sons,Greek,cheap,Greenpoint,13:41,23:01,3.0,true
+553,Ebert LLC,Greek,median,Astoria,10:24,23:11,1.8,false
+554,"Bernhard, Strosin and Dickinson",Chinese,expensive,Astoria,13:23,22:33,4.6,false
+555,"Murphy, Daniel and Balistreri",Japanese,expensive,Chelsea,13:00,22:35,4.9,true
+556,DuBuque-Howell,American,expensive,Bushwick,10:10,22:05,2.6,false
+557,Carter Group,Mediterranean,expensive,Bushwick,13:30,23:56,2.6,true
+558,Collins-Skiles,Vietnamese,expensive,Astoria,13:46,21:50,3.1,false
+559,Schaefer LLC,Vietnamese,cheap,Bushwick,10:32,21:59,3.5,true
+560,Beier Inc,American,median,Harlem,10:55,22:54,4.9,true
+561,Boyle and Sons,Mexican,expensive,Bushwick,12:28,22:51,4.6,false
+562,Wiza and Sons,French,cheap,Bushwick,12:58,23:36,3.9,true
+563,Cummings and Sons,Italian,expensive,Harlem,13:49,22:47,3.9,false
+564,"Daugherty, Ullrich and Rau",Korean,median,Bushwick,11:53,21:53,1.3,false
+565,Buckridge-Casper,Brazilian,cheap,Harlem,13:17,22:46,1.8,false
+566,Vandervort Group,Vietnamese,median,Greenpoint,11:46,21:50,2.6,true
+567,"Macejkovic, Jaskolski and Monahan",Thai,expensive,Harlem,12:42,23:25,4.0,false
+568,"Thompson, Barton and Herzog",Vietnamese,expensive,Lower East Side,12:07,22:25,2.7,true
+569,Zboncak-Hackett,Mexican,cheap,Williamsburg,11:53,23:43,2.1,true
+570,Ryan Group,Italian,expensive,Park Slope,11:55,21:33,2.7,true
+571,Romaguera-Trantow,Brazilian,cheap,Harlem,10:29,22:46,1.5,false
+572,Leffler and Sons,Korean,median,Bushwick,10:00,23:15,3.4,false
+573,Hegmann-Bogisich,Korean,median,Upper East Side,13:26,23:17,1.2,false
+574,"Bergnaum, Waelchi and Cartwright",French,expensive,Park Slope,10:31,22:54,4.6,true
+575,"Friesen, Lebsack and Wintheiser",Brazilian,expensive,Park Slope,13:45,22:39,2.4,true
+576,Jakubowski LLC,Spanish,cheap,Bushwick,13:07,22:03,2.3,true
+577,MacGyver and Sons,Chinese,cheap,Greenpoint,10:04,21:30,4.5,false
+578,Schneider Group,American,expensive,Williamsburg,12:07,22:46,3.6,true
+579,"Hackett, Botsford and Hills",Vietnamese,cheap,Upper East Side,11:47,23:34,4.8,false
+580,Baumbach Group,Korean,cheap,Greenpoint,10:59,22:50,4.8,false
+581,Mohr Group,Vietnamese,cheap,Bushwick,11:38,23:55,2.5,true
+582,Yundt-Berge,Mediterranean,cheap,Upper East Side,10:10,21:58,2.1,false
+583,Champlin-Runolfsdottir,Chinese,median,Lower East Side,10:33,21:34,2.1,false
+584,"Langworth, Prosacco and Ortiz",Spanish,cheap,Astoria,11:24,23:49,2.4,true
+585,Gibson Group,Indian,expensive,Williamsburg,11:51,21:47,1.1,true
+586,Runte and Sons,French,median,Harlem,12:28,22:13,4.5,true
+587,Kreiger Inc,Greek,median,Greenpoint,10:05,23:11,2.5,true
+588,Feeney-Stark,Brazilian,cheap,Midtown,10:58,23:07,3.1,false
+589,Muller and Sons,Korean,median,Williamsburg,13:59,22:13,1.6,false
+590,"Buckridge, Quigley and Hermann",Brazilian,expensive,Park Slope,13:55,21:43,1.0,true
+591,Effertz-Rogahn,Mexican,expensive,Astoria,11:21,23:08,3.8,false
+592,Jast and Sons,French,cheap,Williamsburg,10:10,21:42,2.1,true
+593,Shanahan-Stanton,Chinese,cheap,Park Slope,12:12,21:34,3.8,true
+594,Effertz and Sons,Japanese,cheap,Lower East Side,11:18,22:04,1.0,false
+595,"Howell, Koelpin and Corkery",Vietnamese,median,Bushwick,13:31,22:56,2.6,false
+596,"Nienow, Lockman and Osinski",French,median,Park Slope,10:29,22:28,3.1,true
+597,Ferry-Prosacco,Thai,median,Bushwick,13:10,23:23,4.4,true
+598,"Bashirian, Kling and Krajcik",Spanish,median,Chelsea,12:30,22:05,3.3,true
+599,Willms Inc,French,cheap,Williamsburg,12:47,23:00,3.1,false
+600,Hilpert-Crist,Mexican,expensive,Lower East Side,12:31,23:22,3.4,true
+601,"VonRueden, Kuhlman and Braun",Brazilian,cheap,Williamsburg,10:46,23:10,1.1,false
+602,"Cartwright, Bogan and Jast",Korean,median,Chelsea,11:04,22:25,3.8,true
+603,Koelpin-Schmidt,French,expensive,Bushwick,12:08,23:30,3.0,true
+604,"McClure, Dibbert and Auer",Indian,expensive,Park Slope,11:48,23:10,2.7,false
+605,"Denesik, Jast and Bruen",Spanish,median,Williamsburg,12:06,22:32,3.6,false
+606,Hintz LLC,Thai,cheap,Park Slope,12:25,23:11,4.8,false
+607,"Dibbert, Swaniawski and Gulgowski",Japanese,cheap,Astoria,10:44,22:59,1.6,false
+608,Towne Inc,Chinese,median,Harlem,13:11,21:46,2.1,true
+609,Franecki-Johns,Italian,median,Greenpoint,11:53,23:49,4.3,true
+610,Funk-Wiegand,Japanese,median,Lower East Side,13:09,22:18,3.3,false
+611,"Heller, Bashirian and D'Amore",French,expensive,Williamsburg,11:38,21:45,3.5,false
+612,Bergstrom Inc,American,expensive,Astoria,12:11,22:53,3.2,false
+613,Satterfield-Brown,Vietnamese,median,Astoria,10:00,21:31,2.2,false
+614,"Wiza, Lebsack and Auer",Greek,median,Lower East Side,10:15,21:32,4.8,true
+615,Morar and Sons,Mediterranean,median,Chelsea,12:04,23:34,4.2,false
+616,Rohan LLC,Thai,expensive,Astoria,13:43,23:35,3.7,false
+617,Sawayn Inc,Greek,expensive,Upper East Side,10:40,21:53,4.9,true
+618,"Baumbach, Dach and Fritsch",Chinese,median,Park Slope,11:25,23:36,4.7,true
+619,"Grant, Gerlach and Von",French,expensive,Williamsburg,12:46,22:01,3.3,false
+620,"Crist, Wisoky and Lubowitz",Chinese,cheap,Bushwick,13:33,22:19,1.1,false
+621,Runolfsdottir Inc,American,expensive,Chelsea,12:18,22:33,2.6,true
+622,"Kuhlman, Botsford and Hackett",Indian,median,Williamsburg,13:55,23:50,2.1,true
+623,"Lehner, Spinka and Harris",Indian,expensive,Harlem,13:54,21:55,4.5,true
+624,Marks-Haley,Vietnamese,cheap,Bushwick,13:55,22:52,1.3,true
+625,"Lakin, Spencer and Ortiz",Mediterranean,median,Harlem,10:12,22:57,3.5,false
+626,Ratke LLC,Mexican,cheap,Williamsburg,11:08,22:12,2.6,false
+627,Leffler LLC,Indian,cheap,Midtown,10:04,22:54,4.1,false
+628,Hermann Inc,Greek,cheap,Astoria,10:20,22:43,3.7,false
+629,Balistreri-Haag,Chinese,expensive,Chelsea,12:34,22:06,1.7,false
+630,Cummerata-Ernser,Vietnamese,median,Park Slope,11:27,23:06,3.5,false
+631,Shields-Satterfield,Japanese,expensive,Midtown,11:58,22:24,1.9,true
+632,Schinner-Hettinger,American,expensive,Upper East Side,13:27,22:09,2.9,false
+633,"Nader, Steuber and Lemke",Brazilian,median,Chelsea,10:04,21:53,2.1,false
+634,"Rolfson, Glover and Wilkinson",Korean,cheap,Greenpoint,12:11,22:16,4.8,true
+635,"Greenholt, Johns and Goodwin",Mediterranean,median,Greenpoint,11:31,21:45,1.3,true
+636,Volkman Group,American,median,Midtown,11:33,22:39,4.3,true
+637,Rosenbaum-Dach,Mediterranean,cheap,Upper East Side,12:24,21:47,4.9,true
+638,"Mitchell, Douglas and Nikolaus",Mexican,median,Park Slope,12:19,23:45,4.3,true
+639,Krajcik Group,Spanish,cheap,Midtown,11:08,22:19,1.5,false
+640,Stanton and Sons,French,expensive,Harlem,10:02,22:07,4.2,false
+641,Jacobs-Schaden,French,expensive,Lower East Side,12:21,23:04,3.8,true
+642,Swaniawski-Lueilwitz,Korean,median,Astoria,13:46,23:43,2.9,false
+643,Torp Inc,French,cheap,Williamsburg,12:54,23:09,3.0,true
+644,Ratke and Sons,Chinese,median,Astoria,13:30,22:58,2.5,true
+645,Cormier-Bruen,Indian,expensive,Chelsea,12:08,21:59,3.8,true
+646,Gislason-Runte,Vietnamese,median,Greenpoint,12:57,22:46,4.2,false
+647,Harber Inc,American,median,Park Slope,13:35,22:44,2.2,true
+648,"Price, Hessel and Metz",Mexican,median,Greenpoint,11:03,23:32,2.7,false
+649,Kirlin-Koss,Mexican,cheap,Greenpoint,10:40,22:46,3.3,true
+650,Ritchie-Rosenbaum,American,cheap,Park Slope,12:09,21:54,3.8,false
+651,Hessel Inc,Mexican,cheap,Lower East Side,12:08,22:10,3.5,false
+652,Ullrich-Hermiston,Mediterranean,median,Astoria,12:16,23:15,1.5,false
+653,"Harvey, Schiller and Pollich",Thai,cheap,Harlem,13:19,23:25,3.6,true
+654,Blick-Mitchell,Brazilian,median,Upper East Side,13:22,23:39,4.8,true
+655,Rempel-Hansen,Chinese,cheap,Williamsburg,11:31,23:10,2.5,false
+656,"Rath, Zulauf and Skiles",Japanese,median,Greenpoint,13:15,23:37,4.7,false
+657,"Feest, McLaughlin and Huel",Korean,cheap,Upper East Side,13:32,22:10,1.5,true
+658,"Nicolas, Morar and Kuphal",Greek,median,Chelsea,11:40,23:25,3.4,true
+659,Kuhic-Jakubowski,Indian,median,Chelsea,11:55,22:02,4.3,true
+660,Medhurst LLC,French,cheap,Upper East Side,10:33,22:55,2.2,false
+661,"Swaniawski, Ondricka and Bashirian",Brazilian,cheap,Harlem,12:20,22:11,3.5,false
+662,"Schaefer, Swaniawski and Tillman",Mediterranean,cheap,Greenpoint,11:41,23:37,2.5,true
+663,"Rice, Stiedemann and Padberg",Brazilian,expensive,Midtown,11:49,23:08,1.5,false
+664,"Nitzsche, Trantow and Homenick",Vietnamese,median,Harlem,12:45,23:25,2.1,true
+665,Carter-Kozey,Mexican,expensive,Park Slope,11:34,23:48,1.9,true
+666,"Lind, Stamm and Wunsch",Chinese,cheap,Astoria,10:45,22:57,2.0,true
+667,Predovic LLC,Indian,cheap,Lower East Side,10:30,21:57,4.9,false
+668,Huel LLC,Chinese,cheap,Upper East Side,10:51,23:06,2.3,true
+669,Heller Group,Spanish,cheap,Harlem,11:23,23:26,4.0,true
+670,"Corkery, Pouros and Schiller",Brazilian,median,Midtown,11:09,22:00,4.8,false
+671,Haley LLC,Japanese,median,Bushwick,13:33,22:17,3.2,true
+672,Nikolaus-Gleason,Thai,expensive,Astoria,12:27,23:54,3.7,false
+673,Sanford and Sons,Vietnamese,expensive,Williamsburg,13:34,23:13,2.3,true
+674,Runte LLC,Italian,median,Greenpoint,11:02,22:26,1.5,false
+675,"Feeney, Jones and Dicki",American,median,Greenpoint,12:30,23:04,2.0,true
+676,Bergnaum Inc,Brazilian,median,Greenpoint,11:49,23:51,1.1,true
+677,Greenfelder-Gerlach,Korean,cheap,Bushwick,12:25,22:22,2.9,false
+678,"Heaney, Mraz and Zboncak",Korean,expensive,Chelsea,13:38,23:33,4.3,false
+679,Mohr and Sons,Italian,cheap,Lower East Side,10:58,22:45,4.0,false
+680,Howell Inc,Greek,cheap,Astoria,11:36,22:41,4.0,true
+681,Nader LLC,Vietnamese,cheap,Harlem,12:44,22:09,2.3,true
+682,Tillman-Prohaska,Italian,expensive,Greenpoint,12:37,21:42,5.0,false
+683,"Roob, Wiegand and Gulgowski",Italian,median,Park Slope,11:49,21:50,1.0,true
+684,Collier Inc,Korean,expensive,Astoria,11:11,23:06,1.4,true
+685,"Schaden, Lowe and Abbott",Thai,expensive,Harlem,13:16,22:50,4.7,true
+686,Johns-Koepp,Mediterranean,cheap,Greenpoint,10:06,23:19,4.9,true
+687,Monahan-Daugherty,Vietnamese,expensive,Park Slope,12:00,23:11,1.4,true
+688,Murray Group,Japanese,median,Williamsburg,11:06,22:07,4.8,false
+689,Bailey LLC,Greek,median,Park Slope,13:50,21:59,1.3,true
+690,Predovic-Becker,Korean,cheap,Park Slope,13:15,23:27,3.8,false
+691,Huel LLC,Korean,median,Midtown,12:18,23:17,4.2,true
+692,Bednar and Sons,Mediterranean,cheap,Astoria,12:29,22:17,4.0,false
+693,West LLC,Greek,median,Harlem,12:36,22:47,1.9,true
+694,"Hagenes, Becker and Corwin",Indian,expensive,Lower East Side,10:05,23:32,2.2,true
+695,Kub Group,French,median,Upper East Side,13:58,21:58,2.7,true
+696,Kovacek Group,Korean,cheap,Harlem,10:35,22:22,1.9,true
+697,Blick-Bechtelar,Chinese,median,Bushwick,11:04,22:45,1.1,false
+698,Lehner-Rosenbaum,Spanish,expensive,Williamsburg,12:06,21:59,3.9,true
+699,Morar-Batz,Brazilian,expensive,Astoria,10:35,22:54,4.5,true
+700,Kreiger Inc,Spanish,cheap,Harlem,12:29,22:10,4.7,false
+701,Grady Group,Italian,cheap,Harlem,12:23,22:53,4.6,false
+702,"Hilpert, Stiedemann and Fadel",Thai,median,Bushwick,12:39,23:26,1.1,false
+703,Botsford Inc,Greek,expensive,Astoria,10:00,23:24,1.1,false
+704,Hahn and Sons,American,cheap,Greenpoint,13:34,21:43,4.9,false
+705,"O'Kon, Ullrich and Turner",Mexican,expensive,Bushwick,10:21,23:16,1.3,false
+706,"Jenkins, Gusikowski and Tromp",Mexican,cheap,Greenpoint,13:29,23:20,1.7,false
+707,"Grady, Koepp and Watsica",Chinese,cheap,Greenpoint,12:24,22:32,4.3,false
+708,"Stroman, Hirthe and Veum",Italian,expensive,Greenpoint,13:17,22:55,4.1,false
+709,Thiel Group,American,median,Greenpoint,10:56,22:24,1.9,true
+710,Rolfson-Schmeler,Thai,expensive,Chelsea,12:16,23:07,2.4,false
+711,Kiehn-Ziemann,Greek,median,Chelsea,11:44,21:44,1.2,false
+712,"Thiel, Mueller and Lehner",Thai,expensive,Greenpoint,10:32,23:27,1.5,true
+713,"Goodwin, Schultz and Labadie",Italian,cheap,Harlem,12:33,21:46,2.7,false
+714,"Aufderhar, Fadel and Langosh",Thai,expensive,Bushwick,10:00,23:05,1.1,false
+715,Goodwin-Kohler,Greek,median,Midtown,10:13,22:35,4.8,true
+716,"Bernhard, Homenick and Brown",Mexican,expensive,Upper East Side,10:54,21:46,2.1,false
+717,"O'Reilly, Miller and Hudson",Mediterranean,expensive,Chelsea,12:57,23:14,1.3,false
+718,Kessler-O'Reilly,Brazilian,median,Upper East Side,11:47,21:49,3.1,true
+719,Reynolds Group,Mediterranean,cheap,Lower East Side,10:41,21:57,1.8,true
+720,"Hauck, Langosh and Langworth",Spanish,median,Park Slope,12:40,22:15,4.9,true
+721,"Lang, Abbott and Rempel",French,cheap,Lower East Side,13:12,23:37,1.6,true
+722,Mosciski-Mann,Greek,expensive,Astoria,10:05,23:31,4.9,true
+723,Rowe LLC,Mexican,expensive,Bushwick,13:58,21:58,3.0,false
+724,"Beahan, Kutch and Reinger",French,cheap,Upper East Side,12:04,23:05,3.9,true
+725,Swaniawski LLC,Japanese,expensive,Greenpoint,13:05,21:57,1.7,true
+726,"Hudson, Watsica and Greenholt",Japanese,cheap,Williamsburg,12:41,23:23,1.8,false
+727,"Hand, Klein and Hirthe",Vietnamese,expensive,Astoria,12:59,23:51,2.3,false
+728,"Legros, Weber and Hartmann",Mediterranean,cheap,Astoria,11:01,21:51,1.6,true
+729,Dare and Sons,Japanese,median,Greenpoint,13:51,23:58,3.5,false
+730,"Roob, Bergnaum and Harvey",Indian,median,Midtown,12:51,23:46,1.4,true
+731,"McKenzie, Pacocha and Miller",Vietnamese,expensive,Harlem,12:16,23:09,3.5,false
+732,VonRueden Inc,Mexican,expensive,Astoria,10:11,22:05,3.8,false
+733,Wolff-Dicki,Mediterranean,median,Bushwick,11:46,23:53,1.8,true
+734,Cormier Group,Thai,cheap,Midtown,12:31,22:27,4.5,false
+735,"Lesch, Hilll and Zulauf",Brazilian,cheap,Chelsea,13:15,21:43,3.7,false
+736,Johnson LLC,Spanish,cheap,Upper East Side,10:41,22:19,2.8,false
+737,"Christiansen, Torphy and Klein",Mexican,cheap,Park Slope,10:26,22:20,4.3,false
+738,Gutkowski LLC,Vietnamese,median,Bushwick,13:36,22:12,3.2,false
+739,Koepp-Heidenreich,Chinese,median,Bushwick,12:05,22:49,2.5,true
+740,"Davis, Hansen and Howe",Indian,expensive,Harlem,10:37,22:02,4.6,false
+741,Parker LLC,Vietnamese,cheap,Astoria,13:42,23:58,1.5,true
+742,"Grimes, Dooley and Zboncak",Mediterranean,cheap,Williamsburg,10:43,23:56,4.5,true
+743,"Runte, Graham and Barton",Brazilian,cheap,Greenpoint,10:50,22:13,2.8,true
+744,Kautzer-Treutel,Indian,expensive,Greenpoint,13:16,22:34,1.4,false
+745,Kassulke-Mayert,Indian,median,Lower East Side,10:39,23:40,2.2,false
+746,Macejkovic-Daugherty,Greek,expensive,Lower East Side,13:49,22:32,2.4,false
+747,Macejkovic-Larson,Italian,expensive,Chelsea,13:58,23:13,2.6,true
+748,Wilderman-Nolan,Mexican,expensive,Upper East Side,13:57,23:32,2.7,true
+749,Watsica-Swift,Italian,median,Astoria,10:23,23:44,4.0,true
+750,Gerhold-Weber,Vietnamese,expensive,Harlem,12:35,22:25,2.1,false
+751,Morar-Skiles,Thai,median,Midtown,10:17,23:14,4.5,true
+752,"Grimes, Rice and McCullough",Chinese,expensive,Park Slope,10:39,21:49,2.9,false
+753,Nolan-Rippin,French,cheap,Williamsburg,10:15,22:09,4.0,false
+754,"Cassin, Jones and Pouros",American,median,Williamsburg,10:00,22:52,1.4,true
+755,Stracke Inc,Mexican,cheap,Lower East Side,12:01,22:17,3.5,true
+756,Balistreri Inc,Indian,expensive,Lower East Side,12:14,21:41,5.0,false
+757,Ernser-Turner,Thai,cheap,Harlem,13:18,21:48,2.5,false
+758,"Hyatt, Cremin and Gleichner",Vietnamese,expensive,Upper East Side,12:09,23:55,4.2,true
+759,Witting LLC,Spanish,expensive,Harlem,10:56,23:34,4.9,true
+760,Halvorson Inc,Vietnamese,expensive,Park Slope,13:45,22:32,1.5,false
+761,"Ondricka, O'Connell and Morissette",Greek,cheap,Park Slope,12:16,22:14,4.3,false
+762,Turner-Schmidt,Thai,cheap,Greenpoint,10:01,23:09,2.3,true
+763,Monahan-Mraz,Brazilian,expensive,Williamsburg,11:28,23:36,2.6,false
+764,Gottlieb Group,Thai,expensive,Greenpoint,11:56,22:24,1.1,false
+765,"Fadel, Kunde and Hoppe",Indian,expensive,Greenpoint,10:06,22:43,4.3,false
+766,"Pfannerstill, Franecki and Torphy",Spanish,expensive,Upper East Side,11:58,22:50,1.2,false
+767,"Kuhn, Champlin and Hermiston",Chinese,cheap,Greenpoint,11:17,21:43,3.8,false
+768,"Morissette, Gerhold and Hauck",Mediterranean,median,Upper East Side,13:00,22:47,3.9,true
+769,Stehr and Sons,American,expensive,Midtown,13:56,23:32,2.8,true
+770,"Armstrong, Wyman and Lehner",American,median,Williamsburg,12:30,21:39,1.5,false
+771,"Kling, Schmeler and Kilback",Mexican,cheap,Lower East Side,11:23,23:21,1.7,false
+772,Bernhard-Morar,Brazilian,median,Upper East Side,11:12,21:49,3.5,true
+773,Kohler Inc,Korean,expensive,Upper East Side,11:53,22:18,1.4,true
+774,Bashirian Inc,Brazilian,cheap,Williamsburg,11:59,22:57,1.9,false
+775,Wisozk Inc,Vietnamese,expensive,Lower East Side,12:23,23:27,1.7,true
+776,Cartwright Inc,Chinese,cheap,Harlem,12:49,23:23,2.1,false
+777,Prosacco Group,Mediterranean,expensive,Astoria,10:22,23:43,2.2,false
+778,Kozey Inc,Spanish,expensive,Upper East Side,12:35,22:14,1.7,false
+779,Grant Inc,Thai,expensive,Upper East Side,12:19,22:02,2.2,true
+780,Koelpin-Anderson,Mexican,expensive,Harlem,12:46,23:25,1.0,true
+781,Kuhic Group,Korean,expensive,Williamsburg,10:58,23:34,2.3,false
+782,Reichel-Shields,Brazilian,expensive,Upper East Side,12:21,23:49,2.2,true
+783,Conn Inc,Brazilian,median,Williamsburg,10:15,22:56,2.9,true
+784,Brakus-Langworth,Greek,cheap,Park Slope,13:53,23:29,4.4,false
+785,Schimmel-Koch,American,median,Bushwick,10:36,22:22,3.9,false
+786,Schultz LLC,Mediterranean,cheap,Lower East Side,12:24,23:56,1.2,true
+787,Kohler Group,Korean,expensive,Astoria,11:39,23:32,3.5,false
+788,"Stark, Harris and Langosh",Chinese,expensive,Park Slope,10:21,23:06,2.6,false
+789,Denesik-Schuppe,Chinese,cheap,Williamsburg,10:23,23:37,3.9,true
+790,"Corkery, Miller and Marquardt",Brazilian,expensive,Park Slope,12:37,23:25,4.3,false
+791,"Leffler, Beer and Kautzer",Chinese,expensive,Williamsburg,11:20,23:26,3.8,true
+792,Nitzsche-Pollich,Chinese,median,Upper East Side,12:42,23:03,3.5,true
+793,Stroman and Sons,Korean,median,Bushwick,10:59,21:41,3.6,true
+794,Stiedemann LLC,French,expensive,Astoria,12:45,23:36,2.6,true
+795,Satterfield-Emard,Mediterranean,expensive,Harlem,11:53,23:51,1.6,true
+796,Rodriguez Group,Korean,cheap,Greenpoint,13:33,23:50,4.3,true
+797,O'Reilly-O'Connell,Korean,expensive,Harlem,11:15,22:18,3.0,true
+798,Nienow-Monahan,Indian,cheap,Chelsea,10:00,22:34,2.8,true
+799,Hamill and Sons,Brazilian,cheap,Greenpoint,10:53,23:54,1.5,true
+800,Kuhic and Sons,Chinese,median,Bushwick,12:52,21:56,2.9,false
+801,Heathcote Group,Italian,median,Upper East Side,10:48,23:51,1.7,false
+802,Mertz Inc,Chinese,cheap,Harlem,12:47,23:25,3.6,true
+803,Barrows and Sons,Italian,cheap,Williamsburg,12:06,22:43,4.0,false
+804,Pollich-Roberts,Spanish,expensive,Midtown,12:55,22:08,4.8,false
+805,"Rodriguez, Franecki and Kreiger",Greek,median,Chelsea,11:17,23:05,1.0,true
+806,"Goyette, Dooley and Boehm",Italian,expensive,Midtown,11:40,22:55,1.0,true
+807,Lang-Towne,Italian,cheap,Chelsea,11:20,22:36,4.6,true
+808,Graham Group,Spanish,cheap,Astoria,10:00,22:25,1.0,false
+809,Mohr-Shanahan,Spanish,cheap,Greenpoint,10:11,22:30,4.1,true
+810,Shanahan-Hartmann,Mexican,cheap,Midtown,12:52,23:25,2.3,false
+811,Bernier and Sons,Thai,median,Upper East Side,11:01,21:55,1.2,false
+812,Collier Inc,Thai,expensive,Chelsea,10:21,23:41,4.4,true
+813,Simonis-Herman,American,cheap,Astoria,12:19,22:48,4.9,false
+814,Nicolas-Crona,Mexican,median,Williamsburg,11:34,23:06,1.7,true
+815,Corkery Group,Japanese,cheap,Chelsea,10:58,23:30,1.1,false
+816,"Gutmann, Bernhard and Stiedemann",French,cheap,Bushwick,10:00,22:40,2.7,false
+817,Bosco-Waters,American,cheap,Bushwick,10:37,23:27,3.6,true
+818,Hirthe-Hilll,Chinese,median,Midtown,10:37,23:16,2.9,true
+819,Cassin-Morissette,Spanish,cheap,Midtown,10:56,23:32,4.6,false
+820,"Swift, Schoen and Crist",Indian,cheap,Upper East Side,12:14,23:08,2.2,true
+821,Kunze and Sons,Mexican,median,Bushwick,12:12,21:59,4.3,false
+822,Erdman and Sons,Brazilian,cheap,Harlem,12:28,23:49,1.7,true
+823,Shields-McCullough,Indian,median,Greenpoint,11:27,21:48,1.3,true
+824,"Mraz, Dicki and Abbott",Indian,expensive,Harlem,13:50,23:30,2.4,false
+825,Jast and Sons,Chinese,cheap,Greenpoint,11:50,21:33,2.1,true
+826,"Senger, Hansen and VonRueden",Korean,cheap,Bushwick,12:23,21:53,4.5,false
+827,Kovacek-Schiller,Korean,cheap,Upper East Side,12:40,23:30,3.1,false
+828,Kihn and Sons,Brazilian,expensive,Astoria,10:46,21:37,2.5,false
+829,"Keeling, Rau and Rogahn",Greek,cheap,Harlem,12:04,22:11,1.3,false
+830,Donnelly-Mills,American,cheap,Astoria,13:48,22:02,2.6,false
+831,Ondricka Group,Mediterranean,cheap,Williamsburg,10:08,23:40,4.8,true
+832,Schoen Inc,Indian,cheap,Bushwick,10:52,22:02,4.9,false
+833,Barton LLC,Korean,median,Upper East Side,13:00,23:08,1.5,true
+834,Blanda-Barrows,Greek,expensive,Bushwick,11:58,23:55,1.6,false
+835,"Oberbrunner, Kreiger and Kihn",Thai,median,Park Slope,11:49,22:56,1.4,false
+836,Howell-Kilback,Korean,expensive,Lower East Side,13:00,22:30,1.2,true
+837,Torp-Dach,Italian,cheap,Williamsburg,11:15,22:44,3.8,false
+838,"O'Hara, Hessel and Parisian",Chinese,cheap,Chelsea,12:39,21:50,1.4,false
+839,Muller-Bogisich,Korean,median,Astoria,10:25,22:26,4.0,true
+840,Wolff LLC,Greek,expensive,Park Slope,10:43,23:17,1.9,false
+841,Cruickshank-Hoppe,Italian,median,Greenpoint,13:50,22:08,1.0,false
+842,Jones Inc,French,median,Astoria,12:28,23:19,4.0,true
+843,Wilkinson Group,Vietnamese,cheap,Bushwick,12:06,23:24,4.7,false
+844,Brekke LLC,Korean,expensive,Harlem,11:59,22:35,2.2,true
+845,Hansen-Hyatt,Mediterranean,expensive,Upper East Side,12:35,22:59,1.8,false
+846,Mills-Klein,Italian,cheap,Astoria,10:22,21:50,3.3,true
+847,Quigley-Koepp,Italian,median,Midtown,11:06,23:43,4.0,true
+848,Bayer and Sons,French,expensive,Astoria,11:34,22:11,3.2,false
+849,"Considine, Hammes and Mann",Mexican,median,Chelsea,10:29,22:42,3.7,true
+850,Wolff-Ullrich,Vietnamese,median,Greenpoint,10:39,21:38,2.7,false
+851,"Pouros, Wuckert and Stoltenberg",Greek,median,Astoria,13:01,23:35,2.7,false
+852,Gulgowski Group,Chinese,median,Lower East Side,10:27,23:35,4.7,false
+853,Cole-Mayert,Spanish,cheap,Midtown,12:39,22:53,4.4,true
+854,"Pfeffer, Buckridge and Keebler",Chinese,median,Williamsburg,10:07,23:08,4.9,false
+855,Sanford Group,Italian,median,Astoria,10:58,23:02,4.3,true
+856,Bradtke Inc,Mediterranean,median,Greenpoint,11:26,22:28,1.4,false
+857,"Murazik, Treutel and Breitenberg",Chinese,expensive,Lower East Side,11:01,22:35,1.1,false
+858,"Bernier, Huels and Kunde",Mediterranean,cheap,Chelsea,13:09,23:44,3.4,true
+859,"Crooks, Herzog and Stanton",Brazilian,expensive,Chelsea,12:24,23:54,3.3,false
+860,Deckow-Romaguera,Indian,expensive,Upper East Side,11:18,22:53,1.3,false
+861,Mohr-Torphy,Mediterranean,expensive,Astoria,12:07,21:50,4.8,true
+862,Gleason LLC,Japanese,median,Williamsburg,13:27,23:20,1.3,false
+863,"Gutmann, Wisoky and Wilderman",Thai,expensive,Lower East Side,13:29,22:47,3.2,true
+864,Dicki Inc,Indian,cheap,Chelsea,13:17,23:20,2.4,false
+865,Crona Group,Greek,median,Upper East Side,10:34,21:44,1.7,false
+866,"Smith, Leuschke and Blick",Indian,expensive,Chelsea,11:35,22:59,3.0,false
+867,"Adams, Huels and Runolfsson",Spanish,cheap,Upper East Side,10:28,22:52,1.2,false
+868,"Smitham, Keeling and Friesen",Mediterranean,cheap,Williamsburg,11:47,22:21,3.1,true
+869,White-Runolfsson,Brazilian,cheap,Bushwick,10:39,22:50,2.5,true
+870,Jones-O'Connell,Thai,expensive,Harlem,10:44,23:00,1.2,true
+871,Robel Group,Spanish,median,Greenpoint,10:58,23:04,3.2,false
+872,"Rutherford, Hermiston and Connelly",Indian,cheap,Greenpoint,13:20,22:48,3.7,true
+873,Gutmann-Pfannerstill,Mediterranean,median,Lower East Side,12:25,22:20,1.9,true
+874,Gleason and Sons,Vietnamese,cheap,Williamsburg,12:21,23:22,4.7,true
+875,"Hoppe, Douglas and O'Kon",French,median,Upper East Side,13:34,21:43,3.1,false
+876,"McClure, Johnson and Fay",Mexican,expensive,Bushwick,13:06,23:06,3.8,false
+877,King-Kovacek,Greek,expensive,Chelsea,12:27,23:16,2.6,false
+878,"Predovic, Mayert and Kerluke",Chinese,cheap,Midtown,11:33,23:17,2.8,true
+879,"Hammes, Weimann and Dare",Chinese,cheap,Williamsburg,10:03,23:46,3.6,true
+880,Mohr-Howe,Vietnamese,median,Bushwick,11:29,22:25,4.1,true
+881,Raynor-Goodwin,American,median,Upper East Side,13:31,22:22,1.7,true
+882,Connelly Group,Japanese,median,Harlem,11:19,23:14,1.5,false
+883,"Trantow, Reynolds and Lind",Thai,median,Lower East Side,13:57,22:21,4.6,false
+884,Bins Group,Thai,median,Upper East Side,11:31,22:23,1.4,false
+885,Bode LLC,French,cheap,Upper East Side,13:56,23:13,3.4,false
+886,"Predovic, Goodwin and Simonis",French,expensive,Williamsburg,13:55,21:53,1.7,false
+887,Veum-Toy,Japanese,cheap,Lower East Side,10:15,21:54,2.8,true
+888,"Nikolaus, Morar and Little",Italian,median,Williamsburg,13:31,22:53,1.6,false
+889,"Kautzer, Swaniawski and Runolfsdottir",Korean,median,Midtown,12:11,23:14,1.8,true
+890,"Rutherford, Stiedemann and Kulas",American,median,Bushwick,11:54,22:50,3.0,false
+891,Collins-Cole,American,median,Park Slope,13:42,23:41,2.0,true
+892,Fadel Inc,Mexican,expensive,Greenpoint,13:28,22:34,3.4,false
+893,"Bode, Konopelski and Wintheiser",Indian,cheap,Williamsburg,11:37,23:36,4.2,false
+894,Heathcote Inc,Vietnamese,cheap,Midtown,10:55,23:17,2.8,true
+895,"Trantow, Jacobs and Purdy",Chinese,cheap,Bushwick,13:31,22:18,2.9,false
+896,Smitham-Koch,Indian,median,Williamsburg,11:12,23:36,1.7,false
+897,Johnson Inc,Korean,expensive,Greenpoint,10:23,23:26,4.5,true
+898,Connelly-Lueilwitz,Japanese,median,Midtown,12:48,23:43,3.8,false
+899,Wolff and Sons,American,cheap,Harlem,11:18,22:03,1.3,true
+900,"Robel, Kovacek and Predovic",Indian,cheap,Bushwick,11:17,22:51,4.8,false
+901,Ortiz-Mraz,Mexican,median,Lower East Side,12:11,23:26,4.5,true
+902,Bins Inc,Thai,median,Astoria,10:20,23:24,3.0,false
+903,Bayer Inc,Spanish,expensive,Park Slope,12:59,22:25,4.3,true
+904,Tillman-Jones,French,cheap,Greenpoint,11:31,21:31,4.9,true
+905,Rempel-Kerluke,Mexican,median,Harlem,11:51,23:10,4.5,false
+906,"Schuppe, Hayes and Boehm",Mediterranean,cheap,Park Slope,12:31,22:41,3.7,false
+907,Kuhn Inc,French,cheap,Bushwick,11:28,21:54,4.9,true
+908,Weimann-Legros,Mexican,median,Harlem,11:40,23:36,3.6,false
+909,"Larkin, Hagenes and Klocko",Mediterranean,cheap,Greenpoint,12:00,21:48,3.3,true
+910,Pfeffer LLC,Greek,expensive,Bushwick,11:51,23:39,4.5,false
+911,Gutmann-Heller,Thai,cheap,Harlem,13:19,21:55,1.2,true
+912,Windler-Padberg,American,expensive,Midtown,11:49,22:56,4.9,false
+913,Kautzer-Cartwright,Vietnamese,expensive,Midtown,13:50,23:44,1.2,true
+914,Schumm-Auer,Vietnamese,median,Upper East Side,12:32,22:20,4.9,true
+915,Kuhic Inc,Mediterranean,cheap,Park Slope,10:55,22:21,2.5,false
+916,Hettinger-Anderson,Vietnamese,cheap,Lower East Side,11:30,23:23,1.5,false
+917,Macejkovic LLC,Mexican,expensive,Lower East Side,12:19,23:33,4.5,true
+918,O'Conner-Jaskolski,American,cheap,Park Slope,11:48,22:48,3.4,true
+919,Huels-Torp,Greek,cheap,Bushwick,12:17,22:20,3.2,false
+920,Turcotte-Rippin,Japanese,cheap,Chelsea,13:00,22:33,3.4,true
+921,Crooks-Runolfsson,Mexican,expensive,Park Slope,13:28,22:48,2.1,false
+922,Bailey-Dietrich,French,median,Midtown,13:32,23:48,4.5,false
+923,Lesch-Green,Spanish,cheap,Greenpoint,10:45,22:03,3.9,true
+924,Cartwright-Goldner,Korean,cheap,Greenpoint,12:20,22:27,4.6,false
+925,Johnston and Sons,American,expensive,Lower East Side,13:43,23:21,3.8,true
+926,Hane Group,Korean,cheap,Park Slope,11:30,23:33,3.0,false
+927,"Kertzmann, Heaney and Gorczany",American,median,Williamsburg,13:44,23:17,3.7,true
+928,Johns Group,Mexican,expensive,Lower East Side,13:10,21:48,2.1,true
+929,Cole Group,Italian,expensive,Lower East Side,11:25,22:38,3.2,false
+930,"McCullough, Von and Berge",Vietnamese,cheap,Park Slope,13:05,21:39,4.7,true
+931,"Fadel, Doyle and Monahan",Mediterranean,expensive,Upper East Side,11:30,23:08,4.5,true
+932,Olson Group,Mexican,cheap,Chelsea,11:40,22:15,1.9,true
+933,Wolf Group,Spanish,median,Upper East Side,10:49,21:30,1.2,true
+934,Ward-Kohler,Italian,expensive,Harlem,13:49,22:32,3.1,false
+935,"Lindgren, Kub and Stark",Greek,median,Park Slope,13:33,22:18,4.8,false
+936,Doyle-Torphy,Korean,expensive,Bushwick,11:40,21:43,2.4,false
+937,Kunze Inc,Thai,expensive,Chelsea,11:41,23:39,1.2,true
+938,"MacGyver, Mante and Jakubowski",Chinese,expensive,Lower East Side,12:02,23:23,4.2,false
+939,"Keebler, Kunze and Spencer",American,expensive,Midtown,10:45,22:38,4.0,true
+940,"Hayes, Wintheiser and Senger",Spanish,expensive,Greenpoint,12:04,22:28,2.2,true
+941,"Orn, Block and Yost",Vietnamese,median,Chelsea,10:58,22:27,1.9,false
+942,Walsh-Ernser,Japanese,expensive,Upper East Side,11:24,21:41,4.6,true
+943,Bernhard-Mueller,American,expensive,Bushwick,11:30,23:29,2.2,true
+944,Stamm-Collins,Greek,expensive,Chelsea,11:50,21:49,1.1,true
+945,"Terry, Cormier and Bogan",Spanish,median,Upper East Side,11:34,22:48,3.7,false
+946,Mante-Wisozk,Japanese,expensive,Bushwick,10:37,21:45,3.5,false
+947,Beier-Hoppe,Brazilian,expensive,Chelsea,10:31,23:35,4.3,true
+948,Sporer LLC,Spanish,cheap,Harlem,12:35,21:55,1.6,false
+949,Runolfsdottir and Sons,Brazilian,median,Midtown,11:25,22:34,2.6,false
+950,Stroman Inc,Indian,cheap,Astoria,11:51,22:44,3.3,false
+951,Stark-Wuckert,Mediterranean,median,Park Slope,13:26,23:02,2.2,false
+952,"Ritchie, Jerde and Von",Vietnamese,median,Upper East Side,13:01,22:47,3.5,true
+953,Balistreri-Bahringer,Chinese,expensive,Greenpoint,13:56,23:33,1.6,true
+954,"Larkin, Bogan and Hermiston",American,expensive,Astoria,11:04,23:26,2.6,true
+955,"Runolfsson, Huels and Cole",Greek,expensive,Harlem,12:06,21:38,4.2,false
+956,"Hartmann, Langosh and Bergstrom",French,median,Bushwick,12:17,21:47,2.2,true
+957,Kuhic Inc,Mexican,cheap,Astoria,12:55,21:39,3.4,false
+958,Vandervort-Cassin,Mexican,median,Lower East Side,12:01,21:57,2.9,false
+959,"Hagenes, Douglas and Jones",Japanese,median,Williamsburg,11:33,23:32,2.3,true
+960,Kreiger-Kiehn,Spanish,cheap,Lower East Side,12:46,23:03,1.4,false
+961,Heidenreich-Bernier,Korean,expensive,Harlem,10:40,23:20,2.7,false
+962,"Murazik, Becker and Zemlak",Chinese,expensive,Williamsburg,10:03,22:15,1.6,true
+963,Greenholt Inc,Mediterranean,median,Chelsea,13:11,22:40,2.6,false
+964,Heaney Inc,Greek,cheap,Astoria,12:08,22:26,2.9,false
+965,"Denesik, Hessel and Johnson",Vietnamese,cheap,Lower East Side,10:36,22:26,2.3,true
+966,Moore-Collins,American,expensive,Bushwick,11:15,23:27,4.7,true
+967,Hessel LLC,Thai,median,Williamsburg,12:38,23:08,4.8,true
+968,Gerlach and Sons,Greek,cheap,Harlem,12:53,23:57,2.5,true
+969,Koss-O'Kon,Indian,expensive,Park Slope,12:28,22:38,1.8,true
+970,Will LLC,Greek,median,Midtown,11:39,22:30,4.0,true
+971,"Braun, Rowe and Hettinger",Thai,expensive,Lower East Side,12:17,23:09,5.0,true
+972,Haag and Sons,American,cheap,Park Slope,13:53,23:15,4.8,false
+973,Weimann-Gulgowski,Thai,cheap,Greenpoint,12:38,23:32,2.9,false
+974,Kling-Weissnat,Mexican,median,Harlem,12:22,21:57,3.6,true
+975,Rolfson-Sporer,Japanese,expensive,Williamsburg,11:46,23:32,4.7,false
+976,Kunde LLC,Brazilian,median,Astoria,12:10,21:51,4.0,false
+977,McDermott Inc,Mediterranean,cheap,Harlem,13:56,23:34,1.8,true
+978,Labadie-Quitzon,Korean,cheap,Bushwick,13:18,22:08,4.3,false
+979,Rippin-Simonis,Mexican,cheap,Lower East Side,11:07,22:23,2.2,false
+980,Pollich-Jacobson,Korean,cheap,Greenpoint,13:38,21:55,4.9,true
+981,Hayes Inc,Greek,median,Greenpoint,11:21,22:24,1.2,false
+982,Sipes-Volkman,Japanese,expensive,Midtown,12:28,22:50,3.8,false
+983,Abshire and Sons,Brazilian,cheap,Upper East Side,10:04,23:24,2.5,false
+984,Upton-Kris,Mexican,expensive,Lower East Side,11:30,22:10,2.8,true
+985,"Beatty, Dickinson and Willms",Mexican,cheap,Lower East Side,11:33,21:35,2.3,true
+986,Cole-Fay,Japanese,median,Midtown,11:09,22:29,2.0,false
+987,"Spinka, Raynor and Hills",Vietnamese,median,Lower East Side,13:08,21:50,3.1,false
+988,"Hoppe, Sporer and Klocko",Mediterranean,median,Midtown,10:51,22:09,2.6,true
+989,"Zieme, O'Hara and Yost",Brazilian,expensive,Harlem,10:21,23:10,3.2,false
+990,Medhurst LLC,Chinese,median,Williamsburg,10:02,21:32,2.6,true
+991,"Mueller, Doyle and Schiller",Thai,cheap,Chelsea,13:59,23:06,4.0,false
+992,Jast-Becker,Greek,expensive,Bushwick,10:19,23:02,1.3,false
+993,"Dicki, Oberbrunner and O'Conner",French,cheap,Bushwick,11:34,22:14,3.8,true
+994,"Sanford, Satterfield and Heidenreich",Italian,cheap,Greenpoint,13:56,23:56,3.2,false
+995,"Kohler, Daniel and Armstrong",Mexican,median,Astoria,11:23,21:48,2.7,true
+996,"Gerhold, Bayer and Bahringer",Thai,median,Midtown,11:50,21:51,3.5,true
+997,Brakus LLC,Chinese,cheap,Lower East Side,13:08,23:57,2.2,false
+998,"Buckridge, Howe and Bechtelar",Mediterranean,median,Astoria,12:31,21:58,4.7,true
+999,"Auer, Weber and O'Connell",American,median,Greenpoint,13:46,22:35,1.9,false
+1000,Schmitt Group,Korean,cheap,Williamsburg,12:46,21:32,2.6,true
